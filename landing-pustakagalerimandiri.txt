@@ -1,4 +1,5 @@
 
+
 <!DOCTYPE html>
 <html lang="id"><head prefix="og: https://jurnal.pustakagalerimandiri.co.id/index.php/pustakadata fb: https://jurnal.pustakagalerimandiri.co.id/index.php/pustakadata product: https://jurnal.pustakagalerimandiri.co.id/index.php/pustakadata">
         <script data-breeze="1">
@@ -3577,7 +3578,7 @@ grid-template-columns:repeat(2,1fr);
 <div class="rtp-wrap">
 
 <div class="rtp-head">
-<div class="rtp-title">🔥 RTP GACOR HARI INI</div>
+<div class="rtp-title">ðŸ”¥ RTP GACOR HARI INI</div>
 <div class="rtp-live">LIVE UPDATE</div>
 </div>
 
@@ -7098,7 +7099,7 @@ setInterval(() => {
 
 <div data-bind="scope: 'ajaxpro'">
     <div id="ajaxpro-reinit" data-bind="html: bindBlock('reinit')"></div>
-</div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div style="font-size:12px;background-color:#db9107;color: #fff;padding: 15px;text-align: center;">© Copyright SLOT88. All Rights Reserved.<div>
+</div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div style="font-size:12px;background-color:#db9107;color: #fff;padding: 15px;text-align: center;">Â© Copyright SLOT88. All Rights Reserved.<div>
 <style>
 @media only screen and (max-width: 768px) {
     .catalog-product-view.page-product-configurable #maincontent .column.main .product-info-wrapper {
