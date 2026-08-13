@@ -55,7 +55,7 @@
     <link rel="stylesheet" href="https://public-assets.envato-static.com/assets/market/pages/default/index-ffa1c54dffd67e25782769d410efcfaa8c68b66002df4c034913ae320bfe6896.css" media="all">
     <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="TFNQUvYHwdi8uHoMheRs/Q==" defer></script>
     <meta name="theme-color" content="#333333">
-    <link rel="canonical" href="https://curtisdawe.com/">
+    <link rel="canonical" href="https://ojs.unialfa.com.br/">
     <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -69,10 +69,10 @@
   },
   "sku": "FOR4D",
   "mpn": "77GCR-001",
-  "url": "https://curtisdawe.com/",
+  "url": "https://ojs.unialfa.com.br/",
   "offers": {
     "@type": "Offer",
-    "url": "https://curtisdawe.com/",
+    "url": "https://ojs.unialfa.com.br/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -126,31 +126,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "FOR4D",
-      "item": "https://curtisdawe.com/"
+      "item": "https://ojs.unialfa.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://curtisdawe.com/"
+      "item": "https://ojs.unialfa.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOTO SLOT ",
-      "item": "https://curtisdawe.com/"
+      "item": "https://ojs.unialfa.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SLOT GACOR",
-      "item": "https://curtisdawe.com/"
+      "item": "https://ojs.unialfa.com.br/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "BANDAR TOTO MACAU ",
-      "item": "https://curtisdawe.com/"
+      "item": "https://ojs.unialfa.com.br/"
     }
   ]
 }
@@ -161,7 +161,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "FOR4D",
-  "url": "https://curtisdawe.com/",
+  "url": "https://ojs.unialfa.com.br/",
   "logo": "https://i.gyazo.com/285557d58839e076e08748d6d98a47b1.gif",
   "sameAs": [
     "https://www.facebook.com/FOR4D",
@@ -238,7 +238,7 @@
     <meta property="og:title" content="FOR4D: Portal de Periódicos Layanan Link Situs Toto 4D Resmi & Daftar Bandar Toto Slot Gacor Terpercaya ">
     <meta property="og:description" content="FOR4D hadir sebagai Portal de Periódicos layanan link situs toto 4D resmi dan daftar bandar toto slot gacor terpercaya. Nikmati pasaran populer result terbaru bonus menarik jaminan pembayaran 100% lunas melalui sistem otomatis yang cepat aman terpercaya bagi pemain. "><meta property="og:image" content="https://i.gyazo.com/57bf79ccfa6db5988ba0e25af71865d4.png" />
     <meta property="og:image:alt" content="FOR4D: Portal de Periódicos Layanan Link Situs Toto 4D Resmi & Daftar Bandar Toto Slot Gacor Terpercaya " />
-    <meta property="og:url" content="https://curtisdawe.com/">
+    <meta property="og:url" content="https://ojs.unialfa.com.br/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -250,7 +250,7 @@
     <meta name="twitter:image:alt" content="FOR4D: Portal de Periódicos Layanan Link Situs Toto 4D Resmi & Daftar Bandar Toto Slot Gacor Terpercaya " />
     <meta property="og:title" content="FOR4D: Portal de Periódicos Layanan Link Situs Toto 4D Resmi & Daftar Bandar Toto Slot Gacor Terpercaya ">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://curtisdawe.com/">
+    <meta property="og:url" content="https://ojs.unialfa.com.br/">
     <meta property="og:image" content="https://i.gyazo.com/57bf79ccfa6db5988ba0e25af71865d4.png" />
     <meta property="og:image:alt" content="FOR4D: Portal de Periódicos Layanan Link Situs Toto 4D Resmi & Daftar Bandar Toto Slot Gacor Terpercaya " />
     <meta property="og:description" content="FOR4D hadir sebagai Portal de Periódicos layanan link situs toto 4D resmi dan daftar bandar toto slot gacor terpercaya. Nikmati pasaran populer result terbaru bonus menarik jaminan pembayaran 100% lunas melalui sistem otomatis yang cepat aman terpercaya bagi pemain. ">
@@ -902,16 +902,16 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://curtisdawe.com/">FOR4D</a>
-<a href="https://curtisdawe.com/">SITUS TOTO</a>
-<a href="https://curtisdawe.com/">TOTO SLOT</a>
-<a href="https://curtisdawe.com/">TOTO TOGEL</a>
-<a href="https://curtisdawe.com/">SITUS TOTO</a>
-<a href="https://curtisdawe.com/">TOTO</a>
-<a href="https://curtisdawe.com/">SITUS GACOR</a>
-<a href="https://curtisdawe.com/">BANDAR TOGEL</a>
-<a href="https://curtisdawe.com/">TOTO 4D </a>
-<a href="https://curtisdawe.com/">SLOT GACOR</a>
+<a href="https://ojs.unialfa.com.br/">FOR4D</a>
+<a href="https://ojs.unialfa.com.br/">SITUS TOTO</a>
+<a href="https://ojs.unialfa.com.br/">TOTO SLOT</a>
+<a href="https://ojs.unialfa.com.br/">TOTO TOGEL</a>
+<a href="https://ojs.unialfa.com.br/">SITUS TOTO</a>
+<a href="https://ojs.unialfa.com.br/">TOTO</a>
+<a href="https://ojs.unialfa.com.br/">SITUS GACOR</a>
+<a href="https://ojs.unialfa.com.br/">BANDAR TOGEL</a>
+<a href="https://ojs.unialfa.com.br/">TOTO 4D </a>
+<a href="https://ojs.unialfa.com.br/">SLOT GACOR</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -998,7 +998,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://curtisdawe.com/">EnvatoMarket</a>
+                    <a href="https://ojs.unialfa.com.br/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1006,40 +1006,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://curtisdawe.com/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://ojs.unialfa.com.br/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://curtisdawe.com/">
+                    <a class="off-canvas-left__site" href="https://ojs.unialfa.com.br/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://curtisdawe.com/">
+                    <a class="off-canvas-left__site" href="https://ojs.unialfa.com.br/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://curtisdawe.com/">
+                    <a class="off-canvas-left__site" href="https://ojs.unialfa.com.br/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://curtisdawe.com/">
+                    <a class="off-canvas-left__site" href="https://ojs.unialfa.com.br/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://curtisdawe.com/">
+                    <a class="off-canvas-left__site" href="https://ojs.unialfa.com.br/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://curtisdawe.com/">
+                    <a class="off-canvas-left__site" href="https://ojs.unialfa.com.br/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1048,7 +1048,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://curtisdawe.com/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://ojs.unialfa.com.br/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1063,393 +1063,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://ojs.unialfa.com.br/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://ojs.unialfa.com.br/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Real
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://ojs.unialfa.com.br/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link--empty" href="https://ojs.unialfa.com.br/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://ojs.unialfa.com.br/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://ojs.unialfa.com.br/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link--empty" href="https://ojs.unialfa.com.br/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://ojs.unialfa.com.br/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://ojs.unialfa.com.br/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://ojs.unialfa.com.br/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://ojs.unialfa.com.br/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link--empty" href="https://ojs.unialfa.com.br/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://curtisdawe.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://ojs.unialfa.com.br/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Free
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://curtisdawe.com/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://ojs.unialfa.com.br/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://curtisdawe.com/">Unlimited
+                                    href="https://ojs.unialfa.com.br/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1459,7 +1459,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://curtisdawe.com/">Unlimited
+                            href="https://ojs.unialfa.com.br/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1471,7 +1471,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://curtisdawe.com/">
+                <a class="off-canvas-right__link--cart" href="https://ojs.unialfa.com.br/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1496,7 +1496,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://curtisdawe.com/">
+                                    <a class="btn btn--square" href="https://ojs.unialfa.com.br/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1513,21 +1513,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://curtisdawe.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://ojs.unialfa.com.br/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://curtisdawe.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://ojs.unialfa.com.br/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://curtisdawe.com/">
+                                    <a href="https://ojs.unialfa.com.br/">
                                         <img alt="Logo Baru" src="https://i.gyazo.com/285557d58839e076e08748d6d98a47b1.gif" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1542,19 +1542,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://curtisdawe.com/">
+                                    <a href="https://ojs.unialfa.com.br/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://i.gyazo.com/285557d58839e076e08748d6d98a47b1.gif">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://curtisdawe.com/">
+                                                <a class="global-header-menu__link" href="https://ojs.unialfa.com.br/">
                                                     <span class="global-header-menu__link-text">
                                                         FOR4D
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://curtisdawe.com/">
+                                                <a class="global-header-menu__link" href="https://ojs.unialfa.com.br/">
                                                     <span class="global-header-menu__link-text">
                                                         TOGEL ONLINE
                                                     </span>
@@ -1576,7 +1576,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://curtisdawe.com/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://ojs.unialfa.com.br/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -1679,12 +1679,12 @@
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://curtisdawe.com/">FOR4D</a>
+                                <a class="js-breadcrumb-category" href="https://ojs.unialfa.com.br/">FOR4D</a>
 
 
-                                <a href="https://curtisdawe.com/" class="js-breadcrumb-category">BANDAR TOGEL</a><a class="js-breadcrumb-category" href="https://curtisdawe.com/">TOTO SLOT</a>
+                                <a href="https://ojs.unialfa.com.br/" class="js-breadcrumb-category">BANDAR TOGEL</a><a class="js-breadcrumb-category" href="https://ojs.unialfa.com.br/">TOTO SLOT</a>
 
-                                <a class="js-breadcrumb-category" href="https://curtisdawe.com/">TOTO SLOT</a>
+                                <a class="js-breadcrumb-category" href="https://ojs.unialfa.com.br/">TOTO SLOT</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -1712,7 +1712,7 @@
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://curtisdawe.com/">FOR4D</a>
+                                        By <a rel="author" class="js-by-author" href="https://ojs.unialfa.com.br/">FOR4D</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -1746,7 +1746,7 @@
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://curtisdawe.com/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://ojs.unialfa.com.br/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -2127,13 +2127,13 @@ a:hover {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://curtisdawe.com/"><span
+                                                        href="https://ojs.unialfa.com.br/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://curtisdawe.com/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://ojs.unialfa.com.br/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -2210,7 +2210,7 @@ a:hover {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://curtisdawe.com/">
+                                <a class="item-description-toggle__link" href="https://ojs.unialfa.com.br/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2249,7 +2249,7 @@ a:hover {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;FOR4D: Portal de Periódicos Layanan Link Situs Toto 4D Resmi & Daftar Bandar Toto Slot Gacor Terpercaya &quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://curtisdawe.com/" accept-charset="UTF-8" method="post">
+                                    action="https://ojs.unialfa.com.br/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -2280,7 +2280,7 @@ a:hover {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://curtisdawe.com//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://ojs.unialfa.com.br//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
