@@ -10,11 +10,11 @@
     <meta name="google-site-verification" content="oleBfhUkvr53Vtj7B7C4Bj49_NtYF4j_NzklUZ2J6tk" />
     <meta name="description" content="FOR4D hadir sebagai ruang ternyaman bermain angka situs toto 4D dengan pasaran terlengkap dan special edition bonus bettingan full terbesar di tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.">
     <meta content="for4d, for4d login, for4d daftar, toto togel, toto 4d, togel online" name="keywords"/>
-    <link rel="amphtml" href="https://americano.terascoffe.store/" />
-    <link rel="alternate" href="https://americano.terascoffe.store/"/>
-    <link rel="alternate" hreflang="id" href="https://americano.terascoffe.store/"/>
-    <link rel="alternate" hreflang="en" href="https://americano.terascoffe.store/"/>
-    <link rel="alternate" hreflang="x-default" href="https://americano.terascoffe.store/"/>  
+    <link rel="amphtml" href="https://arabika.terascoffe.store/" />
+    <link rel="alternate" href="https://arabika.terascoffe.store/"/>
+    <link rel="alternate" hreflang="id" href="https://arabika.terascoffe.store/"/>
+    <link rel="alternate" hreflang="en" href="https://arabika.terascoffe.store/"/>
+    <link rel="alternate" hreflang="x-default" href="https://arabika.terascoffe.store/"/>  
     <link as='image' href='https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png' rel='preload'>
     <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
     <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
@@ -405,7 +405,7 @@
             </div>
             <div class='vc-header__actions-container'>
                 <div class='vc-header__account'>
-                   <a href="https://americano.terascoffe.store/"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path></svg></span>
+                   <a href="https://arabika.terascoffe.store/"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path></svg></span>
                         <div class='button__content'>
                             <span class='vc-header__account-button-text'>Account</span>
                         </div>
@@ -425,7 +425,7 @@
                     </button></a>
                 </div>
                 <div class='vc-header__cta'>
-                    <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://americano.terascoffe.store/"
+                    <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://arabika.terascoffe.store/"
                     class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
 BUAT AKUN
@@ -681,8 +681,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://americano.terascoffe.store/" class="btn-x ">DAFTAR DISINI</a>
-<a href="https://americano.terascoffe.store/" class="btn-x ">LOGIN DISINI</a>
+<a href="https://arabika.terascoffe.store/" class="btn-x ">DAFTAR DISINI</a>
+<a href="https://arabika.terascoffe.store/" class="btn-x ">LOGIN DISINI</a>
 
 <style>
 .btn-x{
@@ -845,7 +845,7 @@ View Size Chart
 <div class='m-design__buy-ctas'>
 <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='74165272' data-rudderstack-checkout-type='apple-pay'></div>
 
-<a href="https://americano.terascoffe.store/"><button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='FOR4D' data-rudderstack-event-type='cta'>
+<a href="https://arabika.terascoffe.store/"><button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='FOR4D' data-rudderstack-event-type='cta'>
 LIVECHAT FOR4D
 </button></a>
 
@@ -1254,8 +1254,8 @@ LIVECHAT FOR4D
 </p>
 
 <div class="for4d-action-buttons">
-  <a href="https://americano.terascoffe.store/" class="for4d-btn btn-login">Login FOR4D</a>
-  <a href="https://americano.terascoffe.store/" class="for4d-btn btn-daftar">Daftar Akun Baru</a>
+  <a href="https://arabika.terascoffe.store/" class="for4d-btn btn-login">Login FOR4D</a>
+  <a href="https://arabika.terascoffe.store/" class="for4d-btn btn-daftar">Daftar Akun Baru</a>
 </div>
 
 <h2>HASIL TERKINI PASARAN FAVORIT</h2>
@@ -5668,27 +5668,27 @@ Back To Menu
   }
 </style>
      <div class="footer-floating-tgl">
-      <a href="https://americano.terascoffe.store/" class="footer-btn-tgl promo" target="_blank"
+      <a href="https://arabika.terascoffe.store/" class="footer-btn-tgl promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="PROMOSI FOR4D"> PROMO
             </a>
 
-      <a href="https://americano.terascoffe.store/" class="footer-btn-tgl login" target="_blank"
+      <a href="https://arabika.terascoffe.store/" class="footer-btn-tgl login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Login FOR4D"> LOGIN 
             </a>
 
-      <a href="https://americano.terascoffe.store/" class="footer-btn-tgl daftar" target="_blank"
+      <a href="https://arabika.terascoffe.store/" class="footer-btn-tgl daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Daftar FOR4D"> DAFTAR
             </a>
 
-      <a href="https://americano.terascoffe.store/" class="footer-btn-tgl link" target="_blank"
+      <a href="https://arabika.terascoffe.store/" class="footer-btn-tgl link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="WhatsApp FOR4D"> WHATSAPP
             </a>
 
-      <a href="https://americano.terascoffe.store/" class="footer-btn-tgl chat" target="_blank"
+      <a href="https://arabika.terascoffe.store/" class="footer-btn-tgl chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Live Chat TOGEFOR4DL138"> LIVE CHAT 
             </a>
@@ -6073,8 +6073,8 @@ Back To Menu
     </p>
     <!-- Tombol Navigasi Login & Daftar -->
     <div class="mawar-popup-buttons">
-      <a href="https://americano.terascoffe.store/" class="mawar-popup-btn mp-btn-login">LOGIN</a>
-      <a href="https://americano.terascoffe.store/" class="mawar-popup-btn mp-btn-daftar">DAFTAR</a>
+      <a href="https://arabika.terascoffe.store/" class="mawar-popup-btn mp-btn-login">LOGIN</a>
+      <a href="https://arabika.terascoffe.store/" class="mawar-popup-btn mp-btn-daftar">DAFTAR</a>
     </div>
 
   </div>
