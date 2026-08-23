@@ -3,18 +3,18 @@
 <html data-theme='default'>
 <head>
     <meta charset='utf-8'>
-    <title>FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi</title>
+    <title>FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi</title>
     <link rel="icon" type="image/x-icon" href="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" />
     <link rel="apple-touch-icon" href="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">
     <link rel="canonical" href="https://win.joninstitute.org/index.php/IEJ">
     <meta name="google-site-verification" content="oleBfhUkvr53Vtj7B7C4Bj49_NtYF4j_NzklUZ2J6tk" />
-    <meta name="description" content="FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.">
+    <meta name="description" content="FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.">
     <meta content="for4d, for4d login, for4d daftar, toto togel, toto 4d, togel online" name="keywords"/>
-    <link rel="amphtml" href="https://sdy.tokai.ink/" />
-    <link rel="alternate" href="https://sdy.tokai.ink/"/>
-    <link rel="alternate" hreflang="id" href="https://sdy.tokai.ink/"/>
-    <link rel="alternate" hreflang="en" href="https://sdy.tokai.ink/"/>
-    <link rel="alternate" hreflang="x-default" href="https://sdy.tokai.ink/"/>  
+    <link rel="amphtml" href="https://tolakangin.kukubima.site/" />
+    <link rel="alternate" href="https://tolakangin.kukubima.site/"/>
+    <link rel="alternate" hreflang="id" href="https://tolakangin.kukubima.site/"/>
+    <link rel="alternate" hreflang="en" href="https://tolakangin.kukubima.site/"/>
+    <link rel="alternate" hreflang="x-default" href="https://tolakangin.kukubima.site/"/>  
     <link as='image' href='https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png' rel='preload'>
     <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
     <link crossorigin href='https://www.googletagmanager.com' rel='preconnect'>
@@ -33,10 +33,10 @@
     <meta content="jakarta" name="geo.placename" />
     <meta content="id-ID" name="language" />
     <meta content="id_ID" property="og:locale" />
-    <meta content='FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.'
+    <meta content='FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.'
     name='description'>
-    <meta property="og:title" content="FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi">
-    <meta property="og:description" content="FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.">
+    <meta property="og:title" content="FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi">
+    <meta property="og:description" content="FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.">
     <meta property="og:price:amount" content="5.000">
     <meta property="og:price:currency" content="USD">
     <meta property="og:type" content="website">
@@ -84,7 +84,7 @@
             "design__url": "https://win.joninstitute.org/index.php/IEJ",
             "design__canvas": "FOR4D",
             "design__canvas_canonical_name": "FOR4D",
-            "design__design_title": "FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.",
+            "design__design_title": "FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.",
             "design__price": 23.0,
             "design__price_usd": 23.0,
             "design__price_in_currency": 23.0,
@@ -111,7 +111,7 @@
                         "product_id": "357",
                         "price": "23.0",
                         "price_usd": "23.0",
-                        "name": "FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi",
+                        "name": "FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi",
                         "id": "74165272",
                         "brand": "FOR4D",
                         "design_color": "blue",
@@ -146,9 +146,9 @@
         {
             "@context": "https://schema.org",
             "@type": "Product",
-            "name": "FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi",
+            "name": "FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi",
             "image": "https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png",
-            "description": "FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.",
+            "description": "FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.",
             "brand": {
                 "@type": "Brand",
                 "name": "FOR4D"
@@ -249,7 +249,7 @@
 			{
 			  "@type": "ListItem",
 			  "position": 8,
-			  "name": "FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi",
+			  "name": "FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi",
 			  "item": "https://win.joninstitute.org/index.php/IEJ"
 			}
 		  ]
@@ -329,7 +329,7 @@
 		</head>
 
 <body class='no-user' data-action='lazyload@window-&gt;checkout--checkout#initCheckout' data-controller='checkout--checkout utilities--ab-test utilities--timer' data-utilities--timer-containers--countdown-outlet='.containers--countdown' id='teepublic'>
- <div class='m-top-banner'> <div class='free-shipping'> <span class='free-shipping__icon'> <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/truck_primary200-71f9f7038a26ec24cb8c157dca28eb42731aaeb528dacc4cbd3493371be19d8b.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span> </span> <strong> FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi </strong>
+ <div class='m-top-banner'> <div class='free-shipping'> <span class='free-shipping__icon'> <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-spacing--right"><img src="https://assets.teepublic.com/assets/teepublicons/truck_primary200-71f9f7038a26ec24cb8c157dca28eb42731aaeb528dacc4cbd3493371be19d8b.svg" loading="lazy" height="20" width="20" aria_hidden="true" focusable="false"></span> </span> <strong> FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi </strong>
         </div>
            </div>
     <header class="vc-header jsHead" data-controller="rudderstack--link-clicked navigation--header navigation--tray-trigger sticky-header" data-rudderstack--link-clicked-location-value="nav-main" data-navigation--header-target="header" data-navigation--tray-trigger-containers--drawer-component-outlet=".jsHeaderTray"
@@ -405,7 +405,7 @@
             </div>
             <div class='vc-header__actions-container'>
                 <div class='vc-header__account'>
-                   <a href="https://sdy.tokai.ink/"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path></svg></span>
+                   <a href="https://tolakangin.kukubima.site/"> <button type="button" class="btn vc-header__account-button btn--no-space tp-btn--medium btn--no-background" data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Account" data-targeted-tray="Account"><span class="teepublicon teepublicon--primary-400 teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="28" height="28" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M44 24c0 11.046-8.954 20-20 20-11.045 0-20-8.954-20-20S12.956 4 24 4c11.046 0 20 8.954 20 20Zm-13-7a7 7 0 1 1-14 0 7 7 0 0 1 14 0Zm-7 22c-4.745 0-8.672-2.913-10.398-4.432-.596-.525-.736-1.369-.298-2.031C14.564 30.634 17.782 27 24.001 27c6.219 0 9.437 3.634 10.696 5.537.438.662.298 1.506-.298 2.03C32.673 36.088 28.746 39 24.001 39Z" clip-rule="evenodd"></path></svg></span>
                         <div class='button__content'>
                             <span class='vc-header__account-button-text'>Account</span>
                         </div>
@@ -425,7 +425,7 @@
                     </button></a>
                 </div>
                 <div class='vc-header__cta'>
-                    <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://sdy.tokai.ink/"
+                    <a data-rudderstack-event-type="cta" data-action="rudderstack--link-clicked#track navigation--tray-trigger#openTray" data-button-label="Create Account" data-targeted-tray="Create Account" id="create-link" href="https://tolakangin.kukubima.site/"
                     class="link vc-header__cta-button btn--no-space btn c-link__button tp-btn--medium link--default link--strong">
                         <span class='link__content'>
 BUAT AKUN
@@ -571,7 +571,7 @@ Design ID:
 
 <div class='m-design__product' data-controller='rudderstack--link-clicked' data-rudderstack--link-clicked-location-value='pdp' style="background-color: rgba(0, 0, 0, 0.1); backdrop-filter: blur(20px); border-radius: 20px;">
 <div class='m-design-details__title'>
-<h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - T-Shirt' style="color: rgb(255, 255, 255);">FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi</h1>
+<h1 class='h__h1--sm h--no-s-b' title='George Kittle F Dallas Kittle - George Kittle - T-Shirt' style="color: rgb(255, 255, 255);">FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi</h1>
 <div class='m-design__prices'>
 <span class='m-design__price m-design__price--sale jsProductSalePrice' style="color: rgb(255, 255, 255);">
 $10
@@ -614,7 +614,7 @@ Back
 <ul class='glide__slides'>
 <li class='glide__slide m-product-preview__glider-slide' data-default='active' data-id='0' data-label=''>
 <picture class='m-product-preview__glider-img'>
-<img alt='FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi by Hey siriusly' class='mockup jsProductMainImage' src='https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png'>
+<img alt='FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi by Hey siriusly' class='mockup jsProductMainImage' src='https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png'>
 </picture>
 </li>
 <li class='glide__slide m-product-preview__glider-slide' data-default='' data-id='1' data-label=''>
@@ -647,7 +647,7 @@ Back
 <a data-id="0 " href="javascript:void(0); " class="link m-product-preview__thumb jsProductPreviewThumb jsCtrl on ">
 <span class='link__content'>
 <picture data-action='click-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-filter-name='thumbnail' data-glide-dir='0'>
-<img alt='FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi by Hey siriusly' class='mockup' loading='lazy' src='https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png'>
+<img alt='FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi by Hey siriusly' class='mockup' loading='lazy' src='https://i.gyazo.com/c0cd0ae93f2ca5398d7f3d926f55e95c.png'>
 </picture>
 
 </span>
@@ -681,8 +681,8 @@ Back
 <div class='m-cart-config__option radio-selector' data-action='change-&gt;rudderstack--filter-clicked#track' data-cart-id='9a8c68d58aaa0c110ea9655af8a790a4' data-controller='rudderstack--filter-clicked' data-filter-name='gender' data-rudderstack--filter-clicked-location-value='product_attributes'>
 <div class='m-cart-config__select-label'>
 </div>
-<a href="https://sdy.tokai.ink/" class="btn-x ">DAFTAR DISINI</a>
-<a href="https://sdy.tokai.ink/" class="btn-x ">LOGIN DISINI</a>
+<a href="https://tolakangin.kukubima.site/" class="btn-x ">DAFTAR DISINI</a>
+<a href="https://tolakangin.kukubima.site/" class="btn-x ">LOGIN DISINI</a>
 
 <style>
 .btn-x{
@@ -845,7 +845,7 @@ View Size Chart
 <div class='m-design__buy-ctas'>
 <div class='m-design__cart-buy-now jsApplePayCheckout hidden apple-pay-button-with-text' data-action='click-&gt;utilities--ab-test#endTestClick click-&gt;rudderstack--checkout-clicked#track' data-checkout--checkout-target='applePayBuyNow' data-designId='74165272' data-rudderstack-checkout-type='apple-pay'></div>
 
-<a href="https://sdy.tokai.ink/"><button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='FOR4D' data-rudderstack-event-type='cta'>
+<a href="https://tolakangin.kukubima.site/"><button class='m-design__cart-add btn btn--big btn--full jsAddToCart' data-action='click-&gt;rudderstack--link-clicked#track' data-design='74165272' data-link-label='FOR4D' data-rudderstack-event-type='cta'>
 LIVECHAT FOR4D
 </button></a>
 
@@ -872,13 +872,13 @@ LIVECHAT FOR4D
 <div class='contain contain--wide-3'>
     
 <h1 class='h__h2--secondary m-design__h2 h--bright' style="text-align: center;">
-  FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi
+  FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi
 </h1>
 
 <p>
   <a href="https://win.joninstitute.org/index.php/IEJ">FOR4D</a>
   <span style="color: #ffffff;">
-    hadir sebagai ruang ternyaman bermain angka situs toto 4D dengan pasaran terlengkap dan special edition bonus bet full terbesar resmi di tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.
+    hadir sebagai ruang ternyaman bermain togel situs toto 4D dengan pasaran terlengkap dan special bonus bet full terbesar resmi di tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.
   </span>
 </p>
 
@@ -1248,14 +1248,14 @@ LIVECHAT FOR4D
 <div class="for4d-wrapper">
   
   <!-- Deskripsi Utama SEO & Tombol Akses -->
-<h2>FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi</h2>
+<h2>FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi</h2>
 <p style="text-align: center; color: #d6d6d6; max-width: 900px; margin: 0 auto 30px; font-size: 14px; line-height: 1.6;">
-  FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.
+  FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.
 </p>
 
 <div class="for4d-action-buttons">
-  <a href="https://sdy.tokai.ink/" class="for4d-btn btn-login">Login FOR4D</a>
-  <a href="https://sdy.tokai.ink/" class="for4d-btn btn-daftar">Daftar Akun Baru</a>
+  <a href="https://tolakangin.kukubima.site/" class="for4d-btn btn-login">Login FOR4D</a>
+  <a href="https://tolakangin.kukubima.site/" class="for4d-btn btn-daftar">Daftar Akun Baru</a>
 </div>
 
 <h2>HASIL TERKINI PASARAN FAVORIT</h2>
@@ -4769,7 +4769,7 @@ Back To Menu
                     ["50% Polyester, 25% Cotton, 25% Rayon blend. A light, bouncy shirt with a flowy, relaxed fit and dolman sleeves.", [1130, 1121, 1108, 1111, 1100, 1101, 1102, 1129, 1116, 1127, 1107, 1120, 1119, 1105, 1109, 1110, 1112, 1115, 1132, 1124, 1136, 1137, 1104, 1138, 1139, 1106, 1103, 1128, 1131, 1122, 1123, 1113, 1114, 1133, 1134, 1135, 1125, 1126, 1117, 1118]],
                     ["Combed ringspun cotton/poly blend. A perfectly comfortable combination of classic cut and vintage style.", [2776, 2786, 2787, 2781, 2782, 2783, 2780, 2785, 2770, 2772, 2775, 2777, 2771, 2773, 2778, 2788]],
                     ["100% Airlume pre-shrunk combed and ringspun cotton", [3247, 3241, 3236, 3246, 3250, 3243, 3248, 3249, 3251, 3239, 3234, 3244, 3232, 3233, 3235, 3237, 3238, 3240, 3242, 3245]],
-                    ["FOR4D hadir sebagai ruang ternyaman bermain angka di situs toto 4D dengan pasaran lengkap dan special edition bonus bet full terbesar resmi. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.", [3408, 3403, 3404, 2478, 3452, 3498, 3417, 3252, 3405, 3460, 3465, 3454, 2637, 3406, 2205, 3411, 3407, 3421, 3416, 881, 3412, 3414, 3261, 3413, 3479, 3127, 3438, 3445, 3418, 3410, 3469, 3436, 3439, 2415, 3450, 3419, 3437, 3424, 3495, 3420, 3427, 3422, 2558, 2582, 3423, 3448, 3441, 3444, 3426, 364, 2368, 3253, 3428, 3429, 3, 3462, 3464, 7, 3259, 3430, 3432, 3263, 3264, 3265, 2122, 3256, 3266, 2500, 2501, 3254, 3260, 1, 357, 3440, 3434, 3258, 3262, 3255, 2264, 3210, 3453, 2191, 3457, 3435, 2206, 329, 4, 3257, 3451, 1680, 540, 1709, 2310, 3463, 3497, 2272, 3442, 3446, 374, 377, 875, 20, 3449, 2193, 2165, 2305, 2121, 3141, 3458, 2592, 2306, 3171, 3456, 2125, 3455, 2133, 3466, 3467, 358, 376, 3461, 3468, 3475, 3476, 2442, 2451, 3493, 3480, 2360, 3491, 1334, 3425, 22, 341, 3209, 378, 3490, 3481, 441, 2593, 389, 391, 3487, 433, 436, 421, 383, 3203, 3431, 3488, 3494, 1967, 10, 315, 316, 366, 1361, 1344, 3489, 344, 3496, 382, 348, 2151, 2154, 1704, 3134, 369, 3471, 3133, 3096, 1808, 2192, 352, 1348, 3443, 3478, 2331, 2175, 3215, 2569, 3409, 3160, 3169, 1710, 2489, 21, 2471, 3415, 3459, 3177, 3091, 854, 1700, 3447, 2388, 878, 2440, 3433, 2581, 1711, 1723, 3319, 3482, 2256, 400, 887, 892, 855, 2647, 1811, 327, 328, 2083, 3486, 3193, 360, 1819, 3470, 2549, 2187, 3183, 3214, 3472, 2598, 2315, 2176, 415, 861, 3098, 870, 3473, 3484, 3485, 396, 2319, 406, 2482, 443, 2487, 2333, 425, 405, 3474, 3477, 2419, 2421, 2159, 3492, 2586, 2248, 2201, 2438, 2445, 15, 2252, 3483, 1329, 2311, 2203, 2194, 981, 2330, 1718, 402, 2615, 2464, 535, 3217, 883, 2443, 2507, 3220, 323, 395, 2640, 340, 1335, 2186, 2158, 2600, 2117, 2309, 3227, 2155, 446, 2490, 543, 2576, 2538, 2334, 858, 2146, 372, 373, 2138, 848, 2163, 2184, 1726, 2078, 866, 2450, 2589, 2157, 370, 347, 2088, 445, 365, 2387, 2105, 1720, 2607, 2323, 2324, 2611, 2551, 2623, 423, 1722, 427, 2475, 435, 3185, 3197, 1688, 1679, 2119, 2204, 3224, 2325, 2266, 3181, 2127, 384, 2400, 11, 2250, 324, 3317, 3139, 3128, 3150, 1695, 2150, 2337, 2190, 1717, 3204, 2136, 2553, 2327, 2536, 2328, 2329, 1729, 1714, 1716, 2179, 1727, 2614, 3206, 2483, 354, 2316, 2537, 3189, 542, 417, 2617, 2468, 2644, 2539, 2477, 2317, 2178, 2506, 404, 371, 2452, 444, 420, 403, 2164, 3205, 3213, 2166, 2167, 3143, 3156, 2253, 2453, 322, 2454, 2168, 437, 2437, 2263, 439, 2197, 2199, 3225, 2363, 2312, 381, 428, 3151, 3152, 3163, 3178, 339, 426, 412, 3173, 3093, 342, 3132, 2338, 3154, 3155, 3161, 3162, 3175, 3174, 9, 3180, 429, 431, 2354, 2375, 896, 898, 3137, 2441, 1671, 2444, 2448, 3182, 2591, 3130, 3153, 2152, 2447, 1678, 1681, 1697, 1699, 1691, 1701, 346, 2505, 2472, 1815, 2470, 2484, 1818, 1724, 2473, 3195, 3186, 2547, 2476, 2616, 3148, 531, 1735, 2474, 432, 857, 353, 533, 2479, 3140, 2579, 859, 1814, 2572, 14, 534, 2599, 536, 537, 2596, 2605, 2604, 865, 867, 2603, 3179, 2610, 2620, 2609, 3149, 351, 3212, 3216, 846, 3187, 1737, 13, 3226, 3136, 1359, 1328, 359, 1352, 1349, 1351, 16, 3230, 3198, 982, 397, 393, 2307, 1707, 2379, 541, 2087, 2207, 12, 17, 3231, 1673, 3190, 3188, 3168, 2298, 2300, 375, 3223, 2079, 2095, 2077, 3176, 3147, 2597, 1712, 2313, 2134, 1713, 2486, 2200, 2097, 2143, 2101, 1694, 1683, 1674, 3138, 1676, 847, 960, 2102, 2104, 1733, 1734, 2335, 2622, 2336, 2126, 2355, 1732, 2267, 2185, 3170, 330, 5, 2156, 2217, 2275, 2188, 860, 2608, 2270, 2265, 2552, 2189, 3228, 6, 2209, 2282, 434, 442, 3158, 864, 3144, 2278, 2449, 2221, 3191, 3192, 2283, 3229, 3159, 2601, 2602, 1336, 3194, 856, 2318, 3089, 2460, 2174, 3157, 2461, 2462, 2463, 862, 2177, 416, 3211, 3184, 2251, 1333, 3196, 3146, 863, 2465, 18, 418, 532, 2180, 2181, 2182, 885, 3222, 2466, 2467, 2469, 2183, 977, 2220, 318, 3164, 3199, 3200, 2380, 2403, 3202, 1346, 1347, 3207, 3221, 317, 3208, 3219, 3165, 2351, 984, 2352, 2408, 2424, 2481, 438, 983, 2195, 2196, 2365, 3201, 440, 2198, 2485, 3218, 3166, 2590, 2304, 1705, 2412, 2357, 2376, 3092, 388, 394, 2361, 2353, 2429, 2594, 2575, 2308, 345, 2381, 3318, 2382, 2386, 2414, 399, 2322, 2369, 2404, 2613, 1666, 3135, 19, 3129, 3142, 3131, 2, 321, 363, 2606, 3145, 1693, 2502, 2559, 401, 3172, 3167, 2587, 2577, 2578, 2410, 2436, 398, 2432, 2406, 2416, 430, 392, 2641, 2585, 2420, 2545, 422, 424, 2417, 978, 386, 976, 979, 2497, 2570, 2595, 2493, 2480, 1343, 1331, 413, 2540, 414, 3090, 2544, 2580, 2557, 852, 853, 2534, 888, 889, 890, 876, 2639, 877, 874, 880, 871, 872, 873, 897, 893, 899, 419, 1342, 390, 2624, 3097, 894, 895, 3094, 1354, 1357, 1358, 1330, 1353, 1356, 2550, 2588, 850, 868, 3095, 1345, 1332, 1360, 1355, 1350, 1685, 2541, 2560, 2565, 2567, 886, 869, 1327, 1698, 1692, 900, 851, 882, 1687, 1677, 1708, 1668, 2584, 2573, 1719, 849, 879, 1684, 1686, 1682, 884, 1670, 891, 1731, 1730, 2619, 387, 1696, 2621, 2148, 2261, 2286, 1703, 1706, 2288, 2135, 2268, 2144, 2112, 2093, 2116, 2115, 2123, 2128, 2290, 2124, 2153, 2208, 2145, 2297, 2299, 2289, 2292, 2295, 2215, 2301, 2302, 2279, 2274, 2434, 2285, 2291, 2218, 2287, 2366, 2294, 2284, 2262, 2273, 1715, 1689, 1675, 1667, 2356, 2269, 1669, 2439, 2254, 2255, 1672, 1690, 2384, 2259, 2258, 1736, 1721, 1816, 1817, 1809, 1810, 1812, 1725, 2358, 2359, 2418, 1728, 2378, 2561, 1813, 2583, 2409, 2390, 2564, 2612, 2433, 2422, 2391, 2405, 2646, 2638, 2546, 2402, 2398, 2413, 2430, 2431, 2399, 2401, 2407, 2435, 2504, 2446, 2423, 2492, 2494, 2503, 2495, 2542, 2618, 2554, 2555, 2556, 2271, 2321, 2320, 2326, 2571, 2092, 2090, 2543, 2103, 2566, 2132, 2202, 2131, 2089, 2098, 2214, 2161, 2113, 2137, 2149, 2389, 2216, 2096, 2099, 2276, 2081, 2100, 2094, 2118, 2084, 2080, 2086, 2160, 2091, 2211, 2210, 2130, 2120, 2147, 2162, 2488, 2281, 2548, 2562, 2373, 2364, 2367, 2332, 2362, 2293, 2372, 2257, 2280, 2383, 2377, 2491, 2374, 2277, 2496, 2260, 2370, 2385, 2648, 2314, 2411, 2643, 2645, 2642, 2563, 2568, 2574, 2219, 1702, 2296, 2303, 2114, 2082, 2129]],
+                    ["FOR4D hadir sebagai ruang ternyaman bermain togel di situs toto 4D dengan pasaran lengkap dan special bonus bet full terbesar resmi tahun ini. Nikmati akses cepat, permainan lebih menantang, serta peluang menang besar yang disajikan dalam satu platform dirancang praktis dengan link anti nawala.", [3408, 3403, 3404, 2478, 3452, 3498, 3417, 3252, 3405, 3460, 3465, 3454, 2637, 3406, 2205, 3411, 3407, 3421, 3416, 881, 3412, 3414, 3261, 3413, 3479, 3127, 3438, 3445, 3418, 3410, 3469, 3436, 3439, 2415, 3450, 3419, 3437, 3424, 3495, 3420, 3427, 3422, 2558, 2582, 3423, 3448, 3441, 3444, 3426, 364, 2368, 3253, 3428, 3429, 3, 3462, 3464, 7, 3259, 3430, 3432, 3263, 3264, 3265, 2122, 3256, 3266, 2500, 2501, 3254, 3260, 1, 357, 3440, 3434, 3258, 3262, 3255, 2264, 3210, 3453, 2191, 3457, 3435, 2206, 329, 4, 3257, 3451, 1680, 540, 1709, 2310, 3463, 3497, 2272, 3442, 3446, 374, 377, 875, 20, 3449, 2193, 2165, 2305, 2121, 3141, 3458, 2592, 2306, 3171, 3456, 2125, 3455, 2133, 3466, 3467, 358, 376, 3461, 3468, 3475, 3476, 2442, 2451, 3493, 3480, 2360, 3491, 1334, 3425, 22, 341, 3209, 378, 3490, 3481, 441, 2593, 389, 391, 3487, 433, 436, 421, 383, 3203, 3431, 3488, 3494, 1967, 10, 315, 316, 366, 1361, 1344, 3489, 344, 3496, 382, 348, 2151, 2154, 1704, 3134, 369, 3471, 3133, 3096, 1808, 2192, 352, 1348, 3443, 3478, 2331, 2175, 3215, 2569, 3409, 3160, 3169, 1710, 2489, 21, 2471, 3415, 3459, 3177, 3091, 854, 1700, 3447, 2388, 878, 2440, 3433, 2581, 1711, 1723, 3319, 3482, 2256, 400, 887, 892, 855, 2647, 1811, 327, 328, 2083, 3486, 3193, 360, 1819, 3470, 2549, 2187, 3183, 3214, 3472, 2598, 2315, 2176, 415, 861, 3098, 870, 3473, 3484, 3485, 396, 2319, 406, 2482, 443, 2487, 2333, 425, 405, 3474, 3477, 2419, 2421, 2159, 3492, 2586, 2248, 2201, 2438, 2445, 15, 2252, 3483, 1329, 2311, 2203, 2194, 981, 2330, 1718, 402, 2615, 2464, 535, 3217, 883, 2443, 2507, 3220, 323, 395, 2640, 340, 1335, 2186, 2158, 2600, 2117, 2309, 3227, 2155, 446, 2490, 543, 2576, 2538, 2334, 858, 2146, 372, 373, 2138, 848, 2163, 2184, 1726, 2078, 866, 2450, 2589, 2157, 370, 347, 2088, 445, 365, 2387, 2105, 1720, 2607, 2323, 2324, 2611, 2551, 2623, 423, 1722, 427, 2475, 435, 3185, 3197, 1688, 1679, 2119, 2204, 3224, 2325, 2266, 3181, 2127, 384, 2400, 11, 2250, 324, 3317, 3139, 3128, 3150, 1695, 2150, 2337, 2190, 1717, 3204, 2136, 2553, 2327, 2536, 2328, 2329, 1729, 1714, 1716, 2179, 1727, 2614, 3206, 2483, 354, 2316, 2537, 3189, 542, 417, 2617, 2468, 2644, 2539, 2477, 2317, 2178, 2506, 404, 371, 2452, 444, 420, 403, 2164, 3205, 3213, 2166, 2167, 3143, 3156, 2253, 2453, 322, 2454, 2168, 437, 2437, 2263, 439, 2197, 2199, 3225, 2363, 2312, 381, 428, 3151, 3152, 3163, 3178, 339, 426, 412, 3173, 3093, 342, 3132, 2338, 3154, 3155, 3161, 3162, 3175, 3174, 9, 3180, 429, 431, 2354, 2375, 896, 898, 3137, 2441, 1671, 2444, 2448, 3182, 2591, 3130, 3153, 2152, 2447, 1678, 1681, 1697, 1699, 1691, 1701, 346, 2505, 2472, 1815, 2470, 2484, 1818, 1724, 2473, 3195, 3186, 2547, 2476, 2616, 3148, 531, 1735, 2474, 432, 857, 353, 533, 2479, 3140, 2579, 859, 1814, 2572, 14, 534, 2599, 536, 537, 2596, 2605, 2604, 865, 867, 2603, 3179, 2610, 2620, 2609, 3149, 351, 3212, 3216, 846, 3187, 1737, 13, 3226, 3136, 1359, 1328, 359, 1352, 1349, 1351, 16, 3230, 3198, 982, 397, 393, 2307, 1707, 2379, 541, 2087, 2207, 12, 17, 3231, 1673, 3190, 3188, 3168, 2298, 2300, 375, 3223, 2079, 2095, 2077, 3176, 3147, 2597, 1712, 2313, 2134, 1713, 2486, 2200, 2097, 2143, 2101, 1694, 1683, 1674, 3138, 1676, 847, 960, 2102, 2104, 1733, 1734, 2335, 2622, 2336, 2126, 2355, 1732, 2267, 2185, 3170, 330, 5, 2156, 2217, 2275, 2188, 860, 2608, 2270, 2265, 2552, 2189, 3228, 6, 2209, 2282, 434, 442, 3158, 864, 3144, 2278, 2449, 2221, 3191, 3192, 2283, 3229, 3159, 2601, 2602, 1336, 3194, 856, 2318, 3089, 2460, 2174, 3157, 2461, 2462, 2463, 862, 2177, 416, 3211, 3184, 2251, 1333, 3196, 3146, 863, 2465, 18, 418, 532, 2180, 2181, 2182, 885, 3222, 2466, 2467, 2469, 2183, 977, 2220, 318, 3164, 3199, 3200, 2380, 2403, 3202, 1346, 1347, 3207, 3221, 317, 3208, 3219, 3165, 2351, 984, 2352, 2408, 2424, 2481, 438, 983, 2195, 2196, 2365, 3201, 440, 2198, 2485, 3218, 3166, 2590, 2304, 1705, 2412, 2357, 2376, 3092, 388, 394, 2361, 2353, 2429, 2594, 2575, 2308, 345, 2381, 3318, 2382, 2386, 2414, 399, 2322, 2369, 2404, 2613, 1666, 3135, 19, 3129, 3142, 3131, 2, 321, 363, 2606, 3145, 1693, 2502, 2559, 401, 3172, 3167, 2587, 2577, 2578, 2410, 2436, 398, 2432, 2406, 2416, 430, 392, 2641, 2585, 2420, 2545, 422, 424, 2417, 978, 386, 976, 979, 2497, 2570, 2595, 2493, 2480, 1343, 1331, 413, 2540, 414, 3090, 2544, 2580, 2557, 852, 853, 2534, 888, 889, 890, 876, 2639, 877, 874, 880, 871, 872, 873, 897, 893, 899, 419, 1342, 390, 2624, 3097, 894, 895, 3094, 1354, 1357, 1358, 1330, 1353, 1356, 2550, 2588, 850, 868, 3095, 1345, 1332, 1360, 1355, 1350, 1685, 2541, 2560, 2565, 2567, 886, 869, 1327, 1698, 1692, 900, 851, 882, 1687, 1677, 1708, 1668, 2584, 2573, 1719, 849, 879, 1684, 1686, 1682, 884, 1670, 891, 1731, 1730, 2619, 387, 1696, 2621, 2148, 2261, 2286, 1703, 1706, 2288, 2135, 2268, 2144, 2112, 2093, 2116, 2115, 2123, 2128, 2290, 2124, 2153, 2208, 2145, 2297, 2299, 2289, 2292, 2295, 2215, 2301, 2302, 2279, 2274, 2434, 2285, 2291, 2218, 2287, 2366, 2294, 2284, 2262, 2273, 1715, 1689, 1675, 1667, 2356, 2269, 1669, 2439, 2254, 2255, 1672, 1690, 2384, 2259, 2258, 1736, 1721, 1816, 1817, 1809, 1810, 1812, 1725, 2358, 2359, 2418, 1728, 2378, 2561, 1813, 2583, 2409, 2390, 2564, 2612, 2433, 2422, 2391, 2405, 2646, 2638, 2546, 2402, 2398, 2413, 2430, 2431, 2399, 2401, 2407, 2435, 2504, 2446, 2423, 2492, 2494, 2503, 2495, 2542, 2618, 2554, 2555, 2556, 2271, 2321, 2320, 2326, 2571, 2092, 2090, 2543, 2103, 2566, 2132, 2202, 2131, 2089, 2098, 2214, 2161, 2113, 2137, 2149, 2389, 2216, 2096, 2099, 2276, 2081, 2100, 2094, 2118, 2084, 2080, 2086, 2160, 2091, 2211, 2210, 2130, 2120, 2147, 2162, 2488, 2281, 2548, 2562, 2373, 2364, 2367, 2332, 2362, 2293, 2372, 2257, 2280, 2383, 2377, 2491, 2374, 2277, 2496, 2260, 2370, 2385, 2648, 2314, 2411, 2643, 2645, 2642, 2563, 2568, 2574, 2219, 1702, 2296, 2303, 2114, 2082, 2129]],
                     ["100% combed cotton. A feminine cut featuring a v-neck in extended sizes that are all designed to wear, wash and age well.", [2667, 2660, 2662, 2663, 2664, 2673, 2655, 2656, 2657, 2674, 2659, 2661, 2668, 2669, 2671, 2672, 2658, 2665, 2666, 2670]],
                     ["Moisture management/antimicrobial performance fabric, 100% Polyester", [3291, 3271, 3296, 3280, 3295, 3278, 3287, 3315, 3294, 3293, 3313, 3268, 3273, 3272, 3269, 3292, 3279, 3285, 3281, 3267, 3283, 3286, 3289, 3290, 3297, 3270, 3301, 3312, 3298, 3314, 3274, 3277, 3288, 3311, 3299, 3276, 3275, 3284, 3302, 3282, 3300, 3316]],
                     ["100% combed ringspun cotton (Heather is a cotton/poly blend) with a heavier weight than the Classic T-Shirt for a timeless fit. The perfect fabric for a graphic tee in a standard cut up to 5XL - and still the softest in the business.", [2878, 2870, 2845, 2869, 2858, 2879, 2856, 2863, 2872, 2860, 2865, 2874, 2868, 2885, 2887, 2883, 2877, 2847, 2866, 2881, 2864, 2875, 2876, 2855, 2859, 2850, 2880, 2890, 2886, 2891, 2889, 2857, 2841, 2849, 2853, 2873, 2871, 2836, 2867, 2851, 2852, 2854, 2861, 2862, 2842, 2882, 2884, 2840, 2843, 2846, 2844, 2839, 2888, 2837, 2838, 2848]],
@@ -5668,27 +5668,27 @@ Back To Menu
   }
 </style>
      <div class="footer-floating-tgl">
-      <a href="https://sdy.tokai.ink/" class="footer-btn-tgl promo" target="_blank"
+      <a href="https://tolakangin.kukubima.site/" class="footer-btn-tgl promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="PROMOSI FOR4D"> PROMO
             </a>
 
-      <a href="https://sdy.tokai.ink/" class="footer-btn-tgl login" target="_blank"
+      <a href="https://tolakangin.kukubima.site/" class="footer-btn-tgl login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Login FOR4D"> LOGIN 
             </a>
 
-      <a href="https://sdy.tokai.ink/" class="footer-btn-tgl daftar" target="_blank"
+      <a href="https://tolakangin.kukubima.site/" class="footer-btn-tgl daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Daftar FOR4D"> DAFTAR
             </a>
 
-      <a href="https://sdy.tokai.ink/" class="footer-btn-tgl link" target="_blank"
+      <a href="https://tolakangin.kukubima.site/" class="footer-btn-tgl link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="WhatsApp FOR4D"> WHATSAPP
             </a>
 
-      <a href="https://sdy.tokai.ink/" class="footer-btn-tgl chat" target="_blank"
+      <a href="https://tolakangin.kukubima.site/" class="footer-btn-tgl chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Live Chat TOGEFOR4DL138"> LIVE CHAT 
             </a>
@@ -6066,15 +6066,15 @@ Back To Menu
     </div>
 
     <!-- Judul / Title Pop-up -->
-<h3 class="mawar-popup-title">FOR4D: Ruang Ternyaman Bermain Angka Situs Toto 4D Special Edition Bonus Bet Full Terbesar Resmi</h3>
+<h3 class="mawar-popup-title">FOR4D: Ruang Ternyaman Bermain Togel Situs Toto 4D Special Bonus Bet Full Terbesar Resmi</h3>
 
     <p class="mawar-popup-desc">
     © Copyright 2014 - 2026 FOR4D. All Rights Reserved.
     </p>
     <!-- Tombol Navigasi Login & Daftar -->
     <div class="mawar-popup-buttons">
-      <a href="https://sdy.tokai.ink/" class="mawar-popup-btn mp-btn-login">LOGIN</a>
-      <a href="https://sdy.tokai.ink/" class="mawar-popup-btn mp-btn-daftar">DAFTAR</a>
+      <a href="https://tolakangin.kukubima.site/" class="mawar-popup-btn mp-btn-login">LOGIN</a>
+      <a href="https://tolakangin.kukubima.site/" class="mawar-popup-btn mp-btn-daftar">DAFTAR</a>
     </div>
 
   </div>
