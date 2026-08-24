@@ -47,14 +47,14 @@
   <meta property="al:web:should_fallback" content="true">
 <!-- Canonical -->
   <link rel="canonical" href="https://www.unperba.ac.id/">
-  <link rel="amphtml" href="https://universitas.unperba.store/" />
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="ja">
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="en">
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="zh-Hant">
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="zh-Hans">
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="th">
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="id">
-  <link rel="alternate" href="https://universitas.unperba.store/" hreflang="ko">
+  <link rel="amphtml" href="https://kampus.unperba.store/" />
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="ja">
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="en">
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="zh-Hant">
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="zh-Hans">
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="th">
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="id">
+  <link rel="alternate" href="https://kampus.unperba.store/" hreflang="ko">
 <!-- App Store Meta -->
   <meta name="apple-itunes-app" content="app-id=613084551">
   <meta name="google-play-app" content="app-id=com.ubuy">
@@ -439,8 +439,8 @@ box-shadow: 0px 0px 3px #fff;
 </style>
 
 <div class="n-columns-2">
-<a href="https://universitas.unperba.store/" rel="nofollow noreferrer" class="login">LOGIN</a>
-<a href="https://universitas.unperba.store/" rel="nofollow noreferrer" class="register">DAFTAR</a>
+<a href="https://kampus.unperba.store/" rel="nofollow noreferrer" class="login">LOGIN</a>
+<a href="https://kampus.unperba.store/" rel="nofollow noreferrer" class="register">DAFTAR</a>
 </div>
                 
                
@@ -755,7 +755,7 @@ SLOT777 hadir sebagai link slot gacor resmi yang menyediakan download APK slot T
                                     </div>
                                 <div class="prime-text ">
                                     Noted: Slot777 hadir sebagai link alternatif slot gacor hari ini yang menyediakan download APK slot Thailand resmi dengan bet 200 gampang menang. Platform ini dirancang agar pemain bisa bermain lebih nyaman, aman, dan menguntungkan berkat akses stabil serta performa yang handal. Nikmati pengalaman slot online tanpa hambatan di berbagai perangkat kapan saja. <a class="font-normal theme-color"
-                                        href="https://universitas.unperba.store/"
+                                        href="https://kampus.unperba.store/"
                                         target="_blank">KLIK DISINI</a>.
                                 </div>
                                 </div>
@@ -829,12 +829,12 @@ SLOT777 hadir sebagai link slot gacor resmi yang menyediakan download APK slot T
     </div>
 
     <!-- Tombol DAFTAR dengan link -->
-    <a href="https://universitas.unperba.store/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
+    <a href="https://kampus.unperba.store/" target="_blank" class="btn add-to-cart-btn" id="add-to-cart-btn">
         DAFTAR
     </a>
 
     <!-- Tombol LOGIN dengan link -->
-    <a href="https://universitas.unperba.store/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
+    <a href="https://kampus.unperba.store/" target="_blank" class="btn buy-now-btn" id="buy-now-btn">
         LOGIN
     </a>
 
@@ -4112,27 +4112,27 @@ SLOT777 hadir sebagai link slot gacor resmi yang menyediakan download APK slot T
       </style>
      
      <div class="footer-floating-koi">
-      <a href="https://universitas.unperba.store/" class="footer-btn-koi promo" target="_blank"
+      <a href="https://kampus.unperba.store/" class="footer-btn-koi promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/f57dbafa6daa745d791171d436778eeb.png" alt="PROMOSI"> PROMO
             </a>
 
-      <a href="https://universitas.unperba.store/" class="footer-btn-koi login" target="_blank"
+      <a href="https://kampus.unperba.store/" class="footer-btn-koi login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/f57dbafa6daa745d791171d436778eeb.png" alt="Login"> LOGIN
             </a>
 
-      <a href="https://universitas.unperba.store/" class="footer-btn-koi daftar" target="_blank"
+      <a href="https://kampus.unperba.store/" class="footer-btn-koi daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/f57dbafa6daa745d791171d436778eeb.png" alt="Daftar"> DAFTAR
             </a>
 
-      <a href="https://universitas.unperba.store/" class="footer-btn-koi link" target="_blank"
+      <a href="https://kampus.unperba.store/" class="footer-btn-koi link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/f57dbafa6daa745d791171d436778eeb.png" alt="WhatsApp"> WHATSAPP
             </a>
 
-      <a href="https://universitas.unperba.store/" class="footer-btn-koi chat" target="_blank"
+      <a href="https://kampus.unperba.store/" class="footer-btn-koi chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/f57dbafa6daa745d791171d436778eeb.png" alt="Live Chat"> LIVE CHAT
             </a>
