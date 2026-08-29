@@ -13,9 +13,9 @@
 	<meta name="title" content="SLOT777 : Partner Situs Slot Gacor Resmi SLOT88 Gampang Maxwin">
 	<meta name="robots" content="index, follow, nosnippet">
 	<link rel="canonical" href="https://journal.univetbantara.ac.id/index.php/mecomm">
-	<link rel="amphtml" href="https://pickup.forecoffee.biz/">
-	<link rel="alternate" hreflang="id-id" href="https://pickup.forecoffee.biz/" />
-	<link rel="alternate" hreflang="id" href="https://pickup.forecoffee.biz/" />
+	<link rel="amphtml" href="https://store.forecoffee.biz/">
+	<link rel="alternate" hreflang="id-id" href="https://store.forecoffee.biz/" />
+	<link rel="alternate" hreflang="id" href="https://store.forecoffee.biz/" />
 	<meta name="publisher" content="SLOT777">
 	<meta name="description" content="SLOT777 adalah partner situs slot gacor resmi dari slot88 terbaik yang menghadirkan link slot online terbaru dengan akses aman dan friendly untuk mengisi waktu maxwin hari ini.">
 	<meta name="sitecode" content="id">
@@ -3507,8 +3507,8 @@
 								<!-- CTA Buttons - Gold Version (tanpa animasi Demo) -->
 								<div class="cta-gold-section">
 									<div class="cta-buttons-gold">
-										<a href="https://pickup.forecoffee.biz/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-										<a href="https://pickup.forecoffee.biz/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+										<a href="https://store.forecoffee.biz/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+										<a href="https://store.forecoffee.biz/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
 									</div>
 								</div>
 							</div>
@@ -5284,7 +5284,7 @@
 							<div class="cn-card"> VOLATILITY <b>HIGH</b>
 							</div>
 						</div>
-						<a href="https://pickup.forecoffee.biz/" class="cn-btn"> CHECK RTP NOW </a>
+						<a href="https://store.forecoffee.biz/" class="cn-btn"> CHECK RTP NOW </a>
 					</div>
 					<div class="cn-images">
 						<!-- GANTI GAMBAR WEBP DISINI -->
@@ -6513,13 +6513,13 @@
 						<div class="footer-category__list-wrap">
 							<ul class="footer-category__list" role="list">
 								<li class="footer-category__item" role="listitem">
-									<a class="footer-category__link" href="https://pickup.forecoffee.biz/"> Login Member </a>
+									<a class="footer-category__link" href="https://store.forecoffee.biz/"> Login Member </a>
 								</li>
 								<li class="footer-category__item" role="listitem">
-									<a class="footer-category__link" href="https://pickup.forecoffee.biz/"> Daftar Akun Baru </a>
+									<a class="footer-category__link" href="https://store.forecoffee.biz/"> Daftar Akun Baru </a>
 								</li>
 								<li class="footer-category__item" role="listitem">
-									<a class="footer-category__link" href="https://pickup.forecoffee.biz/"> Lupa Password </a>
+									<a class="footer-category__link" href="https://store.forecoffee.biz/"> Lupa Password </a>
 								</li>
 								<li class="footer-category__item" role="listitem">
 									<a class="footer-category__link" href="https://journal.univetbantara.ac.id/index.php/mecomm"> Riwayat Transaksi </a>
@@ -9665,8 +9665,8 @@
 			<div class="slot777">
 				<img src="https://i.gyazo.com/af5f289058f91ea295dfcde1494663fb.png" alt="Popup Banner" class="popup-image" />
 				<div class="pst-btn-sgp" style="font-size: 20px;">
-					<a href="https://pickup.forecoffee.biz/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-					<a href="https://pickup.forecoffee.biz/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+					<a href="https://store.forecoffee.biz/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+					<a href="https://store.forecoffee.biz/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
 				</div>
 				<div class="popup-footer"> SLOT777 : Partner Situs Slot Gacor Resmi SLOT88 Gampang Maxwin<br />
 					<span style="color: #ffffff; font-weight: 600; text-shadow: 0 0 5px rgba(212, 175, 55, 0.5);">&copy; COPYRIGHT 2026 SLOT777</span>
