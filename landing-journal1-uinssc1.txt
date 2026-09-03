@@ -1,7 +1,7 @@
 
 
 <!DOCTYPE html>
-<html lang="id"><head prefix="og: https://journal1.uinssc.ac.id/ fb: https://journal1.uinssc.ac.id/ product: https://journal1.uinssc.ac.id/">
+<html lang="id"><head prefix="og: https://journal1.uinssc.ac.id/index.php/equalita/index fb: https://journal1.uinssc.ac.id/index.php/equalita/index product: https://journal1.uinssc.ac.id/index.php/equalita/index">
         <script data-breeze="1">
     var LOCALE = 'id\u002DID';
     var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -39,7 +39,7 @@
 <link rel="amphtml" href="https://www.rucika.org/karir/">
 <link rel="icon" type="image/x-icon" href="https://i.gyazo.com/02acb1a10aaa1c0b46e6725803d54e5f.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://i.gyazo.com/02acb1a10aaa1c0b46e6725803d54e5f.png">
-<link rel="canonical" href="https://journal1.uinssc.ac.id/">
+<link rel="canonical" href="https://journal1.uinssc.ac.id/index.php/equalita/index">
 <link rel="alternate" hreflang="id-id" href="https://www.rucika.org/karir/">
 <link rel="alternate" href="https://www.rucika.org/karir/">
 <link rel="alternate" hreflang="id" href="https://www.rucika.org/karir/">
@@ -184,7 +184,7 @@ console.log(
 <meta property="og:title" content="SLOT88: Situs Slot Gacor Hari Ini Terbaru Link Slot777 Scatter Hitam Gampang Menang Malam Ini">
 <meta property="og:image" content="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
 <meta property="og:description" content="SLOT88 hadir sebagai situs slot gacor hari ini terbaru yang menyajikan Link Slot777 dengan fitur Scatter Hitam gampang menang malam ini. Nikmati berbagai pilihan permainan slot dari provider ternama, putaran spin yang ringan, serta peluang jackpot yang lebih terbuka setiap harinya. Segera bergabung di SLOT88 dan rasakan sensasi kemenangan maksimal malam ini.">
-<meta property="og:url" content="https://journal1.uinssc.ac.id/">
+<meta property="og:url" content="https://journal1.uinssc.ac.id/index.php/equalita/index">
     <meta property="product:price:amount" content="10000">
     <meta property="product:price:currency" content="IDR">
 <script type="text/javascript" id="klevu_initsessiondata">
@@ -1038,17 +1038,17 @@ margin-right:10px;
 }
 </style>
 </div></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle" tabindex="0"><span>Toggle Nav</span></span>
-<a class="logo" href="https://journal1.uinssc.ac.id/" title="" aria-label="store logo">
+<a class="logo" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="" aria-label="store logo">
     <img src="https://i.gyazo.com/4ff6ce04918413c75df212ff023e68b5.png" title="" alt="" width="155" height="28">
 </a>
 
 <div class="kanmo-middle-header"><div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span><div class="top-header-components-mc mobile-component">
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://journal1.uinssc.ac.id/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
-      <li><a href="https://journal1.uinssc.ac.id/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
-      <li><a href="https://journal1.uinssc.ac.id/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
-      <li><a href="https://journal1.uinssc.ac.id/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
+      <li><a href="https://journal1.uinssc.ac.id/index.php/equalita/index"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
+      <li><a href="https://journal1.uinssc.ac.id/index.php/equalita/index"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
+      <li><a href="https://journal1.uinssc.ac.id/index.php/equalita/index"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
+      <li><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
 
     </ul>
 
@@ -1057,7 +1057,7 @@ margin-right:10px;
 <div class="block ves-menu ves-megamenu-mobile " id="menu-top-mothercare1742308061777474800-menu">
 		<nav class="navigation" role="navigation" data-action="navigation">
 		<ul id="menu-top-mothercare1742308061777474800" class="ves-megamenu menu-hover ves-horizontal " data-mage-init="{&quot;menu&quot;:{&quot;responsive&quot;:false, &quot;expanded&quot;:false, &quot;position&quot;:{&quot;my&quot;:&quot;left top&quot;,&quot;at&quot;:&quot;left bottom&quot;}}}" data-toggle-mobile-nav="false" data-breeze-processed="true">
-			<li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="font-size:12px;" class=" nav-anchor"><span>SLOT88</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+			<li id="vesitem-884521742308061573800708" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="font-size:12px;" class=" nav-anchor"><span>SLOT88</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="nav-desk row equal nav-revamp">
     <div class="col-md-12">
         <div class="row">
@@ -1692,7 +1692,7 @@ margin-right:10px;
     }
   }
 
-</style></div></div></div></div></li><li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</style></div></div></div></div></li><li id="vesitem-8845517423080611320572800" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
   <!-- column 1  -->
   <div class="col-md-2 col-sm-3">
@@ -1858,7 +1858,7 @@ margin-right:10px;
 
 
 
-</div></div></div></div></div></li><li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT777</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</div></div></div></div></div></li><li id="vesitem-8845817423080611645503736" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT777</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
 
     <!--column 2-->
@@ -1966,7 +1966,7 @@ margin-right:10px;
     <!-- column 1  -->
 
 
-</div></div></div></div></div></li><li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>LINK GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</div></div></div></div></div></li><li id="vesitem-8846117423080611688273500" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>LINK GACOR</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
     <!--column 1-->
     <div class="col-md-2 col-sm-3">
@@ -2040,7 +2040,7 @@ margin-right:10px;
     </div>
     <!-- column 1  -->
 
-</div></div></div></div></div></li><li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SITUS RESMI</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
+</div></div></div></div></div></li><li id="vesitem-884641742308061459618024" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SITUS RESMI</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
     <!--column 1-->
     <div class="col-md-2 col-sm-3">
@@ -2156,7 +2156,7 @@ margin-right:10px;
     </div>
     <!-- column 5  -->
 
-</div></div></div></div></div></li><li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="max-lines: 2;
+</div></div></div></div></div></li><li id="vesitem-8846717423080612122176647" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="max-lines: 2;
 line-height: 20px;
 width:100%;
 font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT ONLINE</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
@@ -2259,7 +2259,7 @@ font-size:12px;white-space: nowrap;" class=" nav-anchor"><span>SLOT ONLINE</span
     </div>
     <!-- column 1  -->
 
-</div></div></div></div></div></li><li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" style="white-space: nowrap;
+</div></div></div></div></div></li><li id="vesitem-88470174230806170878408" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" style="white-space: nowrap;
 font-size:12px;
 " class=" nav-anchor"><span>SLOT GACOR HARI INI</span><span class="caret"></span><span class="opener"></span></a><div class="submenu animated  dropdown-menu" style="width:100%;animation-duration: 0.5s;-webkit-animation-duration: 0.5s;"><div class="content-wrap"><div class="megamenu-content" style="width:100%"><div class="nav-dropdown">
 <div class="row">
@@ -2308,7 +2308,7 @@ font-size:12px;
     </div>
     <!-- column 3-->
 </div>
-</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#db9107 !important" data-color="#fff !important" data-bgcolor="#db9107 !important" style="color: #fff !important;background-color: #db9107 !important;" class=" nav-anchor"><span>SCATTER HITAM</span></a></li>		</ul>
+</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://journal1.uinssc.ac.id/index.php/equalita/index" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#db9107 !important" data-color="#fff !important" data-bgcolor="#db9107 !important" style="color: #fff !important;background-color: #db9107 !important;" class=" nav-anchor"><span>SCATTER HITAM</span></a></li>		</ul>
 			</nav>
 		
 	</div>
@@ -2760,7 +2760,7 @@ margin-right:10px;
     </script>
 
 <div class="actions dropdown options switcher-options no-chevron account-dropdown" data-trigger="true" data-dropdown-parent="true">
-    <a class="action toggle switcher-trigger" href="https://journal1.uinssc.ac.id/" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
+    <a class="action toggle switcher-trigger" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="Akun Saya" data-mage-init="{&quot;dropdown&quot;:{&quot;dialog&quot;:null}}" data-toggle="dropdown" data-trigger-keypress-button="true" data-breeze-processed="true" data-dropdown="true" aria-haspopup="true">
         
         <div id="customer-name-container" data-bind="scope: 'customer-name'">
     <div id="customer-name" class="customer-name" data-bind="visible: isLoggedIn(), text: getFirstName()" style="display: none;"></div>
@@ -2786,12 +2786,12 @@ margin-right:10px;
 
 
     <li style="display: none;">
-        <a href="https://journal1.uinssc.ac.id/">
+        <a href="https://journal1.uinssc.ac.id/index.php/equalita/index">
             buat akun        </a>
     </li>
 <li>
 
-    <a href="https://journal1.uinssc.ac.id/">
+    <a href="https://journal1.uinssc.ac.id/index.php/equalita/index">
         <span>Bantuan</span>
     </a>
 </li>
@@ -2799,7 +2799,7 @@ margin-right:10px;
     </div>
 
 <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-    <a class="action toggle switcher-trigger" href="https://journal1.uinssc.ac.id/" title="Daftar Keinginan">
+    <a class="action toggle switcher-trigger" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="Daftar Keinginan">
         
         <span class="abs-visually-hidden">Daftar Keinginan</span>
     </a>
@@ -2807,7 +2807,7 @@ margin-right:10px;
     </div>
 
 <div data-block="minicart" class="minicart-wrapper">
-    <a class="action showcart" href="https://journal1.uinssc.ac.id/" data-bind="scope: 'minicart_content'">
+    <a class="action showcart" href="https://journal1.uinssc.ac.id/index.php/equalita/index" data-bind="scope: 'minicart_content'">
         <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -2955,7 +2955,7 @@ margin-right:10px;
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "SLOT88",
-  "url": "https://journal1.uinssc.ac.id/",
+  "url": "https://journal1.uinssc.ac.id/index.php/equalita/index",
   "logo": "https://i.gyazo.com/4ff6ce04918413c75df212ff023e68b5.png",
   "description": "SLOT88 hadir sebagai situs slot gacor hari ini terbaru yang menyajikan Link Slot777 dengan fitur Scatter Hitam gampang menang malam ini. Nikmati berbagai pilihan permainan slot dari provider ternama, putaran spin yang ringan, serta peluang jackpot yang lebih terbuka setiap harinya. Segera bergabung di SLOT88 dan rasakan sensasi kemenangan maksimal malam ini. ",
   "foundingDate": "2024",
@@ -3038,19 +3038,19 @@ margin-right:10px;
       "@type": "ListItem",
       "position": 1,
       "name": "SLOT88",
-      "item": "https://journal1.uinssc.ac.id/"
+      "item": "https://journal1.uinssc.ac.id/index.php/equalita/index"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SLOT GACOR",
-      "item": "https://journal1.uinssc.ac.id/"
+      "item": "https://journal1.uinssc.ac.id/index.php/equalita/index"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "SLOT ONLINE",
-      "item": "https://journal1.uinssc.ac.id/"
+      "item": "https://journal1.uinssc.ac.id/index.php/equalita/index"
     }
   ]
 }
@@ -3090,7 +3090,7 @@ margin-right:10px;
 </div>
 </div><div class="product-config">
 <div class="product-add-form">
-    <form data-product-sku="52135545-AYO01" action="https://journal1.uinssc.ac.id/" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
+    <form data-product-sku="52135545-AYO01" action="https://journal1.uinssc.ac.id/index.php/equalita/index" method="post" id="product_addtocart_form" novalidate="true" data-catalog-addtocart-initialized="1">
         <input type="hidden" name="product" value="600193">
         <input type="hidden" name="selected_configurable_option" value="">
         <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -3300,31 +3300,31 @@ a.sizechart-link{
             <img alt="" class="main-image" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png" width="608" height="608">
         </div>
 
-                    <a href="https://journal1.uinssc.ac.id/" class="prev" tabindex="-1">
+                    <a href="https://journal1.uinssc.ac.id/index.php/equalita/index" class="prev" tabindex="-1">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
             </a>
-            <a href="https://journal1.uinssc.ac.id/" class="next" tabindex="-1">
+            <a href="https://journal1.uinssc.ac.id/index.php/equalita/index" class="next" tabindex="-1">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
             </a>
         
         <div class="controls">
-            <a href="https://journal1.uinssc.ac.id/" class="zoom zoom-in">
+            <a href="https://journal1.uinssc.ac.id/index.php/equalita/index" class="zoom zoom-in">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                 </svg>
             </a>
-            <a href="https://journal1.uinssc.ac.id/" class="zoom zoom-out">
+            <a href="https://journal1.uinssc.ac.id/index.php/equalita/index" class="zoom zoom-out">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                 </svg>
             </a>
         </div>
 
-        <a href="https://journal1.uinssc.ac.id/" class="close">
+        <a href="https://journal1.uinssc.ac.id/index.php/equalita/index" class="close">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
             </svg>
@@ -3332,47 +3332,47 @@ a.sizechart-link{
     </div>
     
     <div class="thumbnails ">
-                                                    <a class="item active" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                                    <a class="item active" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://journal1.uinssc.ac.id/" title="View Image">
+                                            <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://i.gyazo.com/906e9a9bb01422ed3ce1b28dc3e785fb.png">
                     </span>    
@@ -6249,14 +6249,14 @@ require(['jquery','Magento_Customer/js/customer-data'],
             });
         });
     });
-</script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">berbelanja dengan kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SLOT88</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SLOT777</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">LINK GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SITUS RESMI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SLOT ONLINE</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SLOT GACOR HARI INI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">SCATTER HITAM</a></p>
-</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p>
+</script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">berbelanja dengan kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SLOT88</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SLOT777</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">LINK GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SITUS RESMI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SLOT ONLINE</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SLOT GACOR HARI INI</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">SCATTER HITAM</a></p>
+</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">hubungi kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://journal1.uinssc.ac.id/index.php/equalita/index">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p>
 <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px">
-    <a class="item" href="https://journal1.uinssc.ac.id/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-    <a class="item" href="https://journal1.uinssc.ac.id/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-    <a class="item" href="https://journal1.uinssc.ac.id/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
+    <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
+    <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
+    <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
 </div>
 </div>
 <style>
@@ -6280,14 +6280,14 @@ require(['jquery','Magento_Customer/js/customer-data'],
 </style></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px;justify-content: center;">
-    <a class="item" href="https://journal1.uinssc.ac.id/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
-    <a class="item" href="https://journal1.uinssc.ac.id/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
-    <a class="item" href="https://journal1.uinssc.ac.id/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
+    <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
+    <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
+    <a class="item" href="https://journal1.uinssc.ac.id/index.php/equalita/index"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
 </div>
 </div>
 </div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">we accept</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"> 
 <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span> 
-<span><a target="_blank" href="https://journal1.uinssc.ac.id/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://i.gyazo.com/4ff6ce04918413c75df212ff023e68b5.png" alt="iso logo"></a></span>
+<span><a target="_blank" href="https://journal1.uinssc.ac.id/index.php/equalita/index"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://i.gyazo.com/4ff6ce04918413c75df212ff023e68b5.png" alt="iso logo"></a></span>
 </div>
 <div>
 <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
@@ -6348,7 +6348,7 @@ margin:0 26px 35px;
 		let dataMinicart = $('#giftreg-message-minicart');
 		let datapdp = $('#giftreg-message-pdp');
 
-		let formUrl = 'https://journal1.uinssc.ac.id/';
+		let formUrl = 'https://journal1.uinssc.ac.id/index.php/equalita/index';
 
 		// $('.action.showcart').click(function(){
 		// 	setTimeout(function(){
@@ -6902,7 +6902,7 @@ margin:0 26px 35px;
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://journal1.uinssc.ac.id/",
+                                "createUrl": "https://journal1.uinssc.ac.id/index.php/equalita/index",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
