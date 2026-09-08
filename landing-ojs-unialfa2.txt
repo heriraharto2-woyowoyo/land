@@ -84,12 +84,12 @@ body#html-body .column.main {
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-regular-webfont.woff2">
 <link rel="preload" as="font" crossorigin="anonymous" href="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/fonts/mothercare_2020-thin-webfont.woff2">
 <link rel="canonical" href="https://ojs.unialfa.com.br/">
-<link rel="amphtml" href="https://periodicos.unialfa.online/" />
-<link rel="alternate" hreflang="id-id" href="https://periodicos.unialfa.online/"/>
-<link rel="alternate" href="https://periodicos.unialfa.online/"/>
-<link rel="alternate" hreflang="id" href="https://periodicos.unialfa.online/"/>
-<link rel="alternate" hreflang="en" href="https://periodicos.unialfa.online/"/>
-<link rel="alternate" hreflang="x-default" href="https://periodicos.unialfa.online/"/>
+<link rel="amphtml" href="https://hah.thriftshop.work/" />
+<link rel="alternate" hreflang="id-id" href="https://hah.thriftshop.work/"/>
+<link rel="alternate" href="https://hah.thriftshop.work/"/>
+<link rel="alternate" hreflang="id" href="https://hah.thriftshop.work/"/>
+<link rel="alternate" hreflang="en" href="https://hah.thriftshop.work/"/>
+<link rel="alternate" hreflang="x-default" href="https://hah.thriftshop.work/"/>
 <link rel="icon" type="image/x-icon" href="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">
 <style>
@@ -485,7 +485,7 @@ var googleMapsConfig = {
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://periodicos.unialfa.online/">
+        <a href="https://hah.thriftshop.work/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png">
           download apps
         </a>
@@ -495,12 +495,12 @@ var googleMapsConfig = {
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://periodicos.unialfa.online/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" href="https://hah.thriftshop.work/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png">
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://periodicos.unialfa.online/" target="_blank" ng-click="callAction($event, 'appStore')">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://hah.thriftshop.work/" target="_blank" ng-click="callAction($event, 'appStore')">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png">
                     </a>
                 </div>
@@ -511,7 +511,7 @@ var googleMapsConfig = {
       </li>
 
       <li>
-        <a href="https://periodicos.unialfa.online/">
+        <a href="https://hah.thriftshop.work/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg">
           gift registry        </a>
       </li>
@@ -621,9 +621,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://periodicos.unialfa.online/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">LOGIN</a></li>
-      <li><a href="https://periodicos.unialfa.online/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">DAFTAR</a></li>
-      <li><a href="https://periodicos.unialfa.online/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
+      <li><a href="https://hah.thriftshop.work/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">LOGIN</a></li>
+      <li><a href="https://hah.thriftshop.work/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png">DAFTAR</a></li>
+      <li><a href="https://hah.thriftshop.work/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -1933,7 +1933,7 @@ font-size:12px;
         <div class="account-label">
             <a href="/customer/account" class="account-link">Akun Saya</a>
         </div>
-        <button><a href="https://periodicos.unialfa.online/">Masuk</a></button>
+        <button><a href="https://hah.thriftshop.work/">Masuk</a></button>
     </div>
 
 </div><div class="mobile-header-panel" style="background: linear-gradient(135deg, #666666, #7d7d7d, #000);" data-breeze-temporary="true"><a class="action skip contentarea" href="#contentarea">
@@ -1945,7 +1945,7 @@ font-size:12px;
   <div class="header_panel_info">
     <ul>
       <li class="download-app-link">
-        <a href="https://periodicos.unialfa.online/">
+        <a href="https://hah.thriftshop.work/">
           <img width="14" height="14" alt="download icon" loading="lazy" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/app.png" />
           download apps
         </a>
@@ -1955,12 +1955,12 @@ font-size:12px;
               <div class="app-content">
                 download app  from:
                 <div class="view code app_store">
-                    <a class="sh-store-link" href="https://periodicos.unialfa.online/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" href="https://hah.thriftshop.work/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="app store" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/apple-en.png" />
                     </a>
                 </div>
                 <div class="view code play_store">
-                    <a class="sh-store-link" data-test="google-play-link" href="https://periodicos.unialfa.online/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
+                    <a class="sh-store-link" data-test="google-play-link" href="https://hah.thriftshop.work/" target="_blank" ng-click="callAction($event, &#39;appStore&#39;)">
                         <img loading="lazy" width="200" height="60" alt="google play" class="sh-store-link__image" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/google-en.png" />
                     </a>
                 </div>
@@ -1971,7 +1971,7 @@ font-size:12px;
       </li>
 
       <li>
-        <a href="https://periodicos.unialfa.online/">
+        <a href="https://hah.thriftshop.work/">
           <img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_white.svg" />
           gift registry        </a>
       </li>
@@ -2063,9 +2063,9 @@ color:#000;
   </div>
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://periodicos.unialfa.online/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" />LOGIN</a></li>
-      <li><a href="https://periodicos.unialfa.online/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" />DAFTAR</a></li>
-      <li><a href="https://periodicos.unialfa.online/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
+      <li><a href="https://hah.thriftshop.work/"><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" />LOGIN</a></li>
+      <li><a href="https://hah.thriftshop.work/"><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" />DAFTAR</a></li>
+      <li><a href="https://hah.thriftshop.work/" target="_blank"><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg" /> Contact Us</a></li>
     </ul>
   </div>
 </div>
@@ -2208,7 +2208,7 @@ margin-right:10px;
             <div class="dropdown switcher-dropdown" data-target="dropdown">
             <ul class="header links">
             <li class="link authorization-link loginRevamp" data-label="Atau">
-            <a href="https://periodicos.unialfa.online/">
+            <a href="https://hah.thriftshop.work/">
                 Masuk / buat akun            </a>
         </li>
 
@@ -2898,7 +2898,7 @@ document.addEventListener("DOMContentLoaded", function () {
     </div>
 
 </div></div><div class="kc-cashback check">
-   <a href="https://periodicos.unialfa.online/" class="kc-points-lable">
+   <a href="https://hah.thriftshop.work/" class="kc-points-lable">
       <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" class="kcpoints-img" width="30px">
        <span>Earn <span class="price">5.000</span> - <span class="price">50.000</span> Bonus</span>
    </a>
@@ -2965,12 +2965,12 @@ Tak hanya unggul dalam pilihan game, FOR4D juga bertindak sebagai bandar Toto 4D
                     </div>
                 </div>
                         <div class="actions">
-                <a href="https://periodicos.unialfa.online/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #780f0f, #931d1d);">
+                <a href="https://hah.thriftshop.work/"><button type="button" title="add to cart" class="action primary tocart" id="product-addtocart-button" style="background: linear-gradient(135deg, #780f0f, #931d1d);">
                     <span>LOGIN</span></button></a>
                 
-                    <a href="https://periodicos.unialfa.online/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
+                    <a href="https://hah.thriftshop.work/" class="action towishlist"  data-action="add-to-wishlist"><span>DAFTAR</span></a><div id="giftreg-message-pdp" style="">
 
-          <a href="https://periodicos.unialfa.online/" class="notlogingift">
+          <a href="https://hah.thriftshop.work/" class="notlogingift">
         <img src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/Kanmo_CustomerDetail/images/gift.png" alt="" />
         CLAIM YOUR BONUS
       </a>
@@ -6036,9 +6036,9 @@ require(['jquery','Magento_Customer/js/customer-data'],
     });
 </script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">FOR4D</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">TOTO SLOT</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">SITUS TOTO</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">TOTO 4D</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">SLOT GACOR</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">TOTO TOGEL</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">TOGEL ONLINE</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">FOR4D LOGIN</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">FOR4D DAFTAR</a></p>
 </div></div>
-<div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">https://periodicos.unialfa.online/</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456777">022 138 303 777</a></p>
+<div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">butuh bantuan? hubungi kami</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">https://hah.thriftshop.work/</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://ojs.unialfa.com.br/">bantuan dan faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456777">022 138 303 777</a></p>
 <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
-<p>https://periodicos.unialfa.online/</p>
+<p>https://hah.thriftshop.work/</p>
 <div style="display:flex;column-gap:20px">
     <a class="item" href="https://ojs.unialfa.com.br/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
     <a class="item" href="https://ojs.unialfa.com.br/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
@@ -6053,8 +6053,8 @@ require(['jquery','Magento_Customer/js/customer-data'],
 .footer-mobile {display:block;}
 }
 </style>
-</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi FOR4D</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://periodicos.unialfa.online/"><img width="400" height="200" loading="lazy" src="https://i.gyazo.com/d450ff94f0928e57382f056876cba00e.png" alt="download app apple store">
-</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://periodicos.unialfa.online/"><img width="400" height="200" loading="lazy" src="https://i.gyazo.com/285557d58839e076e08748d6d98a47b1.gif" alt="download app google play"></a>
+</div></div><div class="pagebuilder-column download-ourapps-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="IQTQM3Q"><h4 class="heading-download-apps-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">unduh aplikasi FOR4D</h4><div class="footer-apple-store-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://hah.thriftshop.work/"><img width="400" height="200" loading="lazy" src="https://i.gyazo.com/d450ff94f0928e57382f056876cba00e.png" alt="download app apple store">
+</a></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><a href="https://hah.thriftshop.work/"><img width="400" height="200" loading="lazy" src="https://i.gyazo.com/285557d58839e076e08748d6d98a47b1.gif" alt="download app google play"></a>
 
 <style>
 @media (min-width:768px){
@@ -6665,27 +6665,27 @@ margin:0 26px 35px;
       </style>
      
      <div class="footer-floating-newbie">
-      <a href="https://periodicos.unialfa.online/" class="login-button promo" target="_blank"
+      <a href="https://hah.thriftshop.work/" class="login-button promo" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="PROMO"> PROMO
             </a>
 
-      <a href="https://periodicos.unialfa.online/" class="login-button login" target="_blank"
+      <a href="https://hah.thriftshop.work/" class="login-button login" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="LOGIN"> LOGIN
             </a>
 
-      <a href="https://periodicos.unialfa.online/" class="login-button daftar" target="_blank"
+      <a href="https://hah.thriftshop.work/" class="login-button daftar" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="DAFTAR"> DAFTAR
             </a>
 
-      <a href="https://periodicos.unialfa.online/" class="login-button link" target="_blank"
+      <a href="https://hah.thriftshop.work/" class="login-button link" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="Link Alternatif"> WHATSAPP
             </a>
 
-      <a href="https://periodicos.unialfa.online/" class="login-button chat" target="_blank"
+      <a href="https://hah.thriftshop.work/" class="login-button chat" target="_blank"
                 rel="nofollow noopener">
                 <img src="https://i.gyazo.com/65a15124127a6d1575e7e3b861cae4be.png" alt="WHATSAPP"> LIVECHAT
             </a>
@@ -7159,9 +7159,9 @@ margin:0 26px 35px;
         <div class="SLOT">
             <img src="https://i.gyazo.com/b6dde0d96789e9023d9666feec92f500.png" alt="Popup Banner" class="popup-image" />
 <div class="rjb-slot-btn">
-    <a href="https://periodicos.unialfa.online/" rel="nofollow noreferrer"
+    <a href="https://hah.thriftshop.work/" rel="nofollow noreferrer"
          class="login">LOGIN</a>
-    <a href="https://periodicos.unialfa.online/" rel="nofollow noreferrer"
+    <a href="https://hah.thriftshop.work/" rel="nofollow noreferrer"
         class="register">DAFTAR</a>
     </div>
 
