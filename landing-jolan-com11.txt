@@ -24,13 +24,13 @@
 	<meta property="og:locale" content="id-ID">
 	<meta name="robots" content="index, follow, nosnippet">
 	<!-- Favicon -->
-    <link  rel="canonical" href="https://jolan.com.ng/" />
-    <link rel="amphtml" href="https://fortunexjolan.pages.dev/" />
-	<link rel="alternate" hreflang="id-id" href="https://fortunexjolan.pages.dev/"/>
-  	<link rel="alternate" href="https://fortunexjolan.pages.dev/"/>
-  	<link rel="alternate" hreflang="id" href="https://fortunexjolan.pages.dev/"/>
-  	<link rel="alternate" hreflang="en" href="https://jolan.com.ng/"/>    
-  	<link rel="alternate" hreflang="x-default" href="https://fortunexjolan.pages.dev/" />
+    <link  rel="canonical" href="https://nampjournals.org.ng/" />
+    <link rel="amphtml" href="https://fortunexnamp.pages.dev/" />
+	<link rel="alternate" hreflang="id-id" href="https://fortunexnamp.pages.dev/"/>
+  	<link rel="alternate" href="https://fortunexnamp.pages.dev/"/>
+  	<link rel="alternate" hreflang="id" href="https://fortunexnamp.pages.dev/"/>
+  	<link rel="alternate" hreflang="en" href="https://nampjournals.org.ng/"/>    
+  	<link rel="alternate" hreflang="x-default" href="https://fortunexnamp.pages.dev/" />
   	<meta name="google-site-verification" content="T2kRxNX4CduGAdUrFkHxUEPV89MDGKSiNnZMoYXeW9Q" />
   	<meta name="google-site-verification" content="T2kRxNX4CduGAdUrFkHxUEPV89MDGKSiNnZMoYXeW9Q" />
 	<link rel="shortcut icon" href="https://i.gyazo.com/20bcc7e8c57e54c2cd22286920cf5b58.png" type="image/x-icon">
@@ -39,7 +39,7 @@
 	<!--
 	<meta property="og:title" content="ROKOKBET: Link Unggulan Platform Toto Togel Online Pasaran Situs Toto 4D Terlengkap 2026" />
 	<meta property="og:description" content="ROKOKBET adalah link unggulan platform toto togel online dengan pasaran situs toto 4D terlengkap di tahun 2026. Main nyaman aman lengkap mudah diakses serta sangat terpercaya bagi semua." />
-	<meta property="og:url" content="https://jolan.com.ng/" />
+	<meta property="og:url" content="https://nampjournals.org.ng/" />
 	<meta property="og:site_name" content="ROKOKBET" />	
     <meta property="product:price:currency" content="IDR">
     -->
@@ -122,7 +122,7 @@
 			</div>	
 			<div class="col-lg-2 col-md-2 col-sm-5 col-xs-5">
 				<div class="logo">
-					<a href='https://jolan.com.ng/'><img src='https://i.gyazo.com/79634d457ccb799e4f7ec401b8d196d7.gif'/></a>
+					<a href='https://nampjournals.org.ng/'><img src='https://i.gyazo.com/79634d457ccb799e4f7ec401b8d196d7.gif'/></a>
             </div>
 			</div>
 			
@@ -131,19 +131,19 @@
 		<ul class="main__menu">
 
 			<li class="drop">
-				<a href="https://jolan.com.ng/" no="1">ROKOKBET</a>
+				<a href="https://nampjournals.org.ng/" no="1">ROKOKBET</a>
 			</li>
 
 			<li class="drop">
-				<a href="https://jolan.com.ng/" no="2">SITUS TOTO</a>
+				<a href="https://nampjournals.org.ng/" no="2">SITUS TOTO</a>
 			</li>
 
 			<li class="drop">
-				<a href="https://jolan.com.ng/" no="3">TOTO TOGEL</a>
+				<a href="https://nampjournals.org.ng/" no="3">TOTO TOGEL</a>
 			</li>
 
 			<li class="drop">
-				<a href="https://jolan.com.ng/" no="4">TOTO 4D</a>
+				<a href="https://nampjournals.org.ng/" no="4">TOTO 4D</a>
 			</li>
 
 		</ul>
@@ -179,7 +179,7 @@
                     <div class="row" >
                         <div class="col-md-12" >
                             <div class="search__inner">
-                                <form action="https://jolan.com.ng/" method="get">
+                                <form action="https://nampjournals.org.ng/" method="get">
                                     <input placeholder="Search here... " class='prod_search' type="text" id="prod_search" autocomplete="off">
 									<div id='sprod_search'></div>
                                     <button type="submit"></button>
@@ -214,7 +214,7 @@
             <div class="shopping__cart">
                 <div class="shopping__cart__inner">
                     <div class="offsetmenu__close__btn">
-                        <a href="https://jolan.com.ng/"><i class="zmdi zmdi-close"></i></a>
+                        <a href="https://nampjournals.org.ng/"><i class="zmdi zmdi-close"></i></a>
                     </div>
                     <div class="shp__cart__wrap" id="cart_mini">						
                     </div>
@@ -223,17 +223,17 @@
                 </div>
             </div>
  <div class="button-login-daftar">
-                    <a class="login" href="https://fortunexjolan.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                    <a class="login" href="https://fortunexnamp.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                         LOGIN 
                     </a>
-                    <a class="register" href="https://fortunexjolan.pages.dev/" rel="nofollow noreferrer" style="color: white;">
+                    <a class="register" href="https://fortunexnamp.pages.dev/" rel="nofollow noreferrer" style="color: white;">
                         DAFTAR 
                     </a>
                 </div>
 			
 			<div class="mobilemenu">
 				<div class="mobilemenu__close__btn">
-					<a href="https://jolan.com.ng/"><i class="zmdi zmdi-close"></i></a>
+					<a href="https://nampjournals.org.ng/"><i class="zmdi zmdi-close"></i></a>
 				</div>
 				<nav class="mainmenu__nav">
 					<ul class="cd-accordion-menu animated">
@@ -245,7 +245,7 @@
 			
 			<div class="filterMobile">
 				<div class="filterMobile__close__btn">
-					<a href="https://jolan.com.ng/"><i class="zmdi zmdi-close"></i></a>
+					<a href="https://nampjournals.org.ng/"><i class="zmdi zmdi-close"></i></a>
 				</div>
 				<div class="filterMobile__inner">
 					<div class="container-fluid" style="padding:10px 30px 10px 10px">
@@ -316,7 +316,7 @@
  			
 			<div class="filterSeries">
 				<div class="filterSeries__close__btn">
-					<a href="https://jolan.com.ng/"><i class="zmdi zmdi-close"></i></a>
+					<a href="https://nampjournals.org.ng/"><i class="zmdi zmdi-close"></i></a>
 				</div>
 				<div class="filterSeries__inner">
 					<div class="container-fluid" style="padding:10px 30px 10px 10px">
@@ -457,7 +457,7 @@
 		var a = ([year, month, day].join('-'))+' '+([hour, minute, second].join(':'));
 
 		$.ajax({
-			url: 'https://jolan.com.ng/',
+			url: 'https://nampjournals.org.ng/',
 			type: 'POST',
 			success: function(res) {
 				if(res) {
@@ -480,7 +480,7 @@
 						btsWkt = tampBtsWkt.replace(" ","T");
 
 						$.ajax({
-							url: 'https://jolan.com.ng/',
+							url: 'https://nampjournals.org.ng/',
 							type: 'POST',
 							data: {
 								fs: valFs.kd_fs
@@ -509,7 +509,7 @@
 								
 						if(produkItem.length > 0) {
 							$.ajax({
-								url: 'https://jolan.com.ng/',
+								url: 'https://nampjournals.org.ng/',
 								type: 'POST',
 								data: {
 									item: JSON.stringify(produkItem),
@@ -578,7 +578,7 @@
 						btsWkt = tampBtsWkt.replace(" ","T");
 
 						$.ajax({
-							url: 'https://jolan.com.ng/',
+							url: 'https://nampjournals.org.ng/',
 							type: 'POST',
 							data: {
 								fs: valFs.kd_fs
@@ -607,7 +607,7 @@
 								
 						if(produkItem.length > 0) {
 							$.ajax({
-								url: 'https://jolan.com.ng/',
+								url: 'https://nampjournals.org.ng/',
 								type: 'POST',
 								data: {
 									item: JSON.stringify(produkItem),
@@ -678,7 +678,7 @@
 			if (localStorage.getItem('private_key') != ''){
 				private_key = localStorage.getItem('private_key');
 			}
-			var url = 'https://jolan.com.ng/';
+			var url = 'https://nampjournals.org.ng/';
 			var jumlah = 1;
 			
 			$.ajax({
@@ -714,7 +714,7 @@
 		/**end of btn_add_to_cart */
 
 		function add_wishlist(id_produk, thumb_closest){
-			var url_wishlist= 'https://jolan.com.ng/';
+			var url_wishlist= 'https://nampjournals.org.ng/';
 
 			$.ajax({
 				type:'post',
@@ -726,7 +726,7 @@
 				},
 				success:function (data) {
 					if (data.url!=''){
-						window.location.href = 'https://jolan.com.ng/' + data.url;
+						window.location.href = 'https://nampjournals.org.ng/' + data.url;
 					}
 				},
 				complete: function(){
@@ -740,8 +740,8 @@
 			$('#error_msg_prod_detail').hide();
 			var id_produk   = $('#id_produk').val(); 
 			var jumlah		= 1;
-			var url         = 'https://jolan.com.ng/';
-			var url_wishlist= 'https://jolan.com.ng/';
+			var url         = 'https://nampjournals.org.ng/';
+			var url_wishlist= 'https://nampjournals.org.ng/';
 			
 			
 			$('#buy_btn, #btn_add_to_cart, #btn_add_to_cart_wishlist').on('click', function(){
@@ -811,7 +811,7 @@
 							plsWaitDiv('#'+thumb_closest, 'hidden');    
 						},2000);
 						if (data.url!=''){
-							window.location.href = 'https://jolan.com.ng/' + data.url;
+							window.location.href = 'https://nampjournals.org.ng/' + data.url;
 						}
 					}
 				});
@@ -910,14 +910,14 @@
 								itmHtml += ''+
 											'<div class="product__inner">'+
 												'<div class="pro__thumb" id="'+data[n].produk_seo+'">'+
-													'<a href="https://jolan.com.ng/'+data[n].produk_seo+'">'+
-														'<img src="https://jolan.com.ng/'+data[n].gambar+'" alt="product images">'+
+													'<a href="https://nampjournals.org.ng/'+data[n].produk_seo+'">'+
+														'<img src="https://nampjournals.org.ng/'+data[n].gambar+'" alt="product images">'+
 													'</a>'+(data[n].potprocentase > 0 ? '<span class="discount-label">'+data[n].potprocentase+'%</span>' : '')+
 												'</div>'+
 												'<div class="product__hover__info">'+
 													'<ul class="product__action">';
 														if(idxFs == 0) {
-															itmHtml += '<!--<li><a data-toggle="modal" data-target="#productModal" title="Quick View" class="quick-view modal-view detail-link" href="https://jolan.com.ng/" data-whatever="'+data[n].produk_seo+'"><span class="ti-zoom-in"></span></a></li>-->'+    
+															itmHtml += '<!--<li><a data-toggle="modal" data-target="#productModal" title="Quick View" class="quick-view modal-view detail-link" href="https://nampjournals.org.ng/" data-whatever="'+data[n].produk_seo+'"><span class="ti-zoom-in"></span></a></li>-->'+    
 															'<li><a title="Add To Cart" class="btn_add_to_cart_fs" id="'+data[n].id_produk+'"><span class="ti-shopping-cart"></span></a></li>';
 														}
 														itmHtml += '<input type="hidden" id="id_produk" name="id_produk" value="'+data[n].id_produk+'">'+
@@ -927,7 +927,7 @@
 												'</div>'+
 											'</div>'+
 											'<div class="product__details">'+
-												'<h2><a href="https://jolan.com.ng/'+data[n].produk_seo+'">'+data[n].nama_produk+'</a></h2>'+
+												'<h2><a href="https://nampjournals.org.ng/'+data[n].produk_seo+'">'+data[n].nama_produk+'</a></h2>'+
 												'<div class="row">'+
 													'<span class="new__price_left">'+
 														'<ul class="product__price">';
@@ -1026,14 +1026,14 @@
         "name": "ROKOKBET: Link Unggulan Platform Toto Togel Online Pasaran Situs Toto 4D Terlengkap 2026",
         "image": "https://i.gyazo.com/a622798be687ac419c88c3a60bf13195.png",
         "description": "ROKOKBET adalah link unggulan platform toto togel online dengan pasaran situs toto 4D terlengkap di tahun 2026. Main nyaman aman lengkap mudah diakses serta sangat terpercaya bagi semua.",
-        "url": "https://jolan.com.ng/",
+        "url": "https://nampjournals.org.ng/",
         "brand": {
           "@type": "Brand",
           "name": "ROKOKBET"
         },
         "offers": {
           "@type": "Offer",
-          "url": "https://jolan.com.ng/",
+          "url": "https://nampjournals.org.ng/",
           "price": "75000",
           "priceCurrency": "IDR",
           "priceValidUntil": "2025-10-7",
@@ -1041,7 +1041,7 @@
           "hasMerchantReturnPolicy": {
             "@type": "MerchantReturnPolicy",
             "refundType": "http://schema.org/FullRefund",
-            "merchantReturnLink": "https://jolan.com.ng/",
+            "merchantReturnLink": "https://nampjournals.org.ng/",
             "returnPolicyCategory": "https://schema.org/MerchantReturnFiniteReturnWindow",
             "merchantReturnDays": 60,
             "returnMethod": "https://schema.org/ReturnByMail",
@@ -1115,7 +1115,7 @@
               "@type": "Article",
               "mainEntityOfPage": {
                 "@type": "WebPage",
-                "@id": "https://jolan.com.ng/"
+                "@id": "https://nampjournals.org.ng/"
               },
               "headline": "ROKOKBET: Link Unggulan Platform Toto Togel Online Pasaran Situs Toto 4D Terlengkap 2026",
               "description": "ROKOKBET adalah link unggulan platform toto togel online dengan pasaran situs toto 4D terlengkap di tahun 2026. Main nyaman aman lengkap mudah diakses serta sangat terpercaya bagi semua.",
@@ -1123,7 +1123,7 @@
               "author": {
                 "@type": "Organization",
                 "name": "ROKOKBET",
-                "url": "https://jolan.com.ng/"
+                "url": "https://nampjournals.org.ng/"
               },
               "publisher": {
                 "@type": "Organization",
@@ -1147,7 +1147,7 @@
       "@type": "ListItem",
       "position": 1,
       "item": {
-        "@id": "https://jolan.com.ng/",
+        "@id": "https://nampjournals.org.ng/",
         "name": "ROKOKBET"
       }
     },
@@ -1155,7 +1155,7 @@
       "@type": "ListItem",
       "position": 2,
       "item": {
-        "@id": "https://jolan.com.ng/",
+        "@id": "https://nampjournals.org.ng/",
         "name": "SITUS TOTO"
       }
     },
@@ -1163,7 +1163,7 @@
       "@type": "ListItem",
       "position": 3,
       "item": {
-        "@id": "https://jolan.com.ng/",
+        "@id": "https://nampjournals.org.ng/",
         "name": "TOTO TOGEL"
       }
     },
@@ -1171,7 +1171,7 @@
       "@type": "ListItem",
       "position": 4,
       "item": {
-        "@id": "https://jolan.com.ng/",
+        "@id": "https://nampjournals.org.ng/",
         "name": "TOTO 4D"
       }
     },
@@ -1179,7 +1179,7 @@
       "@type": "ListItem",
       "position": 5,
       "item": {
-        "@id": "https://jolan.com.ng/",
+        "@id": "https://nampjournals.org.ng/",
         "name": "ROKOKBET: Link Unggulan Platform Toto Togel Online Pasaran Situs Toto 4D Terlengkap 2026"
       }
     }
@@ -1227,7 +1227,7 @@
             <img class="img-responsive" src="https://ifurnholic.com/media/game/1662343964-penuh-13.png"/>
         </div>
         <div id="popupfoot"> 
-            <a class="agree" style="color:red;" href="https://jolan.com.ng/">Mainkan</a>
+            <a class="agree" style="color:red;" href="https://nampjournals.org.ng/">Mainkan</a>
         </div>
     </div>
     <div style="width: 1478px; font-size: 32pt; color:white; height: 100%; position:fixed; display: none; opacity: 0.8;" id="mask"></div>
@@ -1264,7 +1264,7 @@
 	function loadMoreData(page){
         var tipe = 'produk';
         $.ajax({
-            url: 'https://jolan.com.ng/produk/loadmore/' + tipe + '/' + page,
+            url: 'https://nampjournals.org.ng/produk/loadmore/' + tipe + '/' + page,
             type: "post",
             beforeSend: function(){
                 $('.ajax-load').show();
@@ -1328,7 +1328,7 @@
         if (localStorage.getItem('private_key') != ''){
             private_key = localStorage.getItem('private_key');
         }
-        var url = 'https://jolan.com.ng/produk/keranjang';
+        var url = 'https://nampjournals.org.ng/produk/keranjang';
         var jumlah = 1;
         
         $.ajax({
@@ -1378,7 +1378,7 @@
     });
 
     function add_wishlist(id_produk, thumb_closest){
-        var url_wishlist= 'https://jolan.com.ng/produk/wishlist';
+        var url_wishlist= 'https://nampjournals.org.ng/produk/wishlist';
 
         $.ajax({
             type:'post',
@@ -1390,7 +1390,7 @@
             },
             success:function (data) {
                 if (data.url!=''){
-                    window.location.href = 'https://jolan.com.ng/' + data.url;
+                    window.location.href = 'https://nampjournals.org.ng/' + data.url;
                 }
             },
             complete: function(){
@@ -1933,7 +1933,7 @@
   <h1>ROKOKBET: Link Unggulan Platform Toto Togel Online Pasaran Situs Toto 4D Terlengkap 2026</h1>
 
   <p>
-    <a title="ROKOKBET" href="https://jolan.com.ng/">
+    <a title="ROKOKBET" href="https://nampjournals.org.ng/">
       <strong>ROKOKBET</strong>
     </a>
     ROKOKBET di kenal sebagai destinasi utama para pecinta togel online yang mengutamakan kenyamanan, kelengkapan, dan pengalaman bermain mulus. Di sini kamu mendapatkan akses cepat ke pasaran toto 4D terupdate dengan berbagai pilihan populer yang selalu di perbarui sepanjang 2026. Platform sederhana namun powerful, tampilan bersih memudahkan pemula sekaligus memuaskan pemain berpengalaman, dilengkapi prediksi harian, hasil real-time, riwayat keluaran, serta metode deposit dan withdraw praktis.
@@ -2019,15 +2019,15 @@
 
   <div class="cta-footer">
 
-    <a href="https://fortunexjolan.pages.dev/" class="btn login-footer">
+    <a href="https://fortunexnamp.pages.dev/" class="btn login-footer">
       LOGIN
     </a>
 
-    <a href="https://fortunexjolan.pages.dev/" class="btn daftar-footer">
+    <a href="https://fortunexnamp.pages.dev/" class="btn daftar-footer">
       DAFTAR
     </a>
 
-    <a href="https://fortunexjolan.pages.dev/" class="btn alternatif-footer">
+    <a href="https://fortunexnamp.pages.dev/" class="btn alternatif-footer">
       ALTERNATIF
     </a>
 
@@ -2253,41 +2253,41 @@
             <div class="container pt--50 pb--20">
                 <div class="row">
                     <div class="col-xs-4 col-sm-4 col-md-offset-1 col-md-2 col-lg-2">
-                        <a href="https://jolan.com.ng/">
+                        <a href="https://nampjournals.org.ng/">
                             <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-interior.png" style="max-width:56px !important"/>
                         </a>
                         </br>
-                        <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none; font-size:11px">Desain Interior</a></span>
+                        <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none; font-size:11px">Desain Interior</a></span>
                     </div>
                     <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-                        <a href="https://jolan.com.ng/">
+                        <a href="https://nampjournals.org.ng/">
                             <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-deliveries.png" style="max-width:56px !important"/></br>
                         </a>
-                        <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none; font-size:11px">Pengiriman</a></span>
+                        <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none; font-size:11px">Pengiriman</a></span>
                     </div>
                     <div hidden class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-                        <a href="https://jolan.com.ng/">
+                        <a href="https://nampjournals.org.ng/">
                             <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-return.png" style="max-width:56px !important"/></br>
                         </a>
-                        <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none; font-size:11px">Kebijakan Pengembalian</a></span>
+                        <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none; font-size:11px">Kebijakan Pengembalian</a></span>
                     </div>
                     <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-                        <a href="https://jolan.com.ng/">
+                        <a href="https://nampjournals.org.ng/">
                             <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-garansi.png" style="max-width:56px !important"/></br>
                         </a>
-                        <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none; font-size:11px">Kebijakan Garansi</a></span>
+                        <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none; font-size:11px">Kebijakan Garansi</a></span>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2">
-                        <a href="https://jolan.com.ng/">
+                        <a href="https://nampjournals.org.ng/">
                             <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-FAQ.png" style="max-width:56px !important"></br>
                         </a>
-                        <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none; font-size:11px">Pertanyaan</a></span>
+                        <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none; font-size:11px">Pertanyaan</a></span>
                     </div>
                     <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2">
-                        <a href="https://jolan.com.ng/">
+                        <a href="https://nampjournals.org.ng/">
                             <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-contact.png" style="max-width:56px !important"/></br>
                         </a>
-                        <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none; font-size:11px">Hubungi Kami</a></span>
+                        <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none; font-size:11px">Hubungi Kami</a></span>
                     </div>
                 </div>
 
@@ -2296,41 +2296,41 @@
                 		<div id='myCarouselService' class='carousel slide' data-ride='carousel'>
                 			<div class='carousel-inner'>
                 			    <div class='item active'>
-                                    <a href="https://jolan.com.ng/">
+                                    <a href="https://nampjournals.org.ng/">
                                         <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-interior.png"/>
                                     </a>
                                     </br>
-                                    <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none">Jasa Desain Interior</a></span>
+                                    <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none">Jasa Desain Interior</a></span>
                                 </div>
                                 <div class='item'>
-                                    <a href="https://jolan.com.ng/">
+                                    <a href="https://nampjournals.org.ng/">
                                         <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-deliveries.png"/></br>
                                     </a>
-                                    <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none">Pengiriman</a></span>
+                                    <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none">Pengiriman</a></span>
                                 </div>
                                 <div hidden class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-                                    <a href="https://jolan.com.ng/">
+                                    <a href="https://nampjournals.org.ng/">
                                         <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-return.png"/></br>
                                     </a>
-                                    <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none">Kebijakan Pengembalian</a></span>
+                                    <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none">Kebijakan Pengembalian</a></span>
                                 </div>
                                 <div class='item'>
-                                    <a href="https://jolan.com.ng/">
+                                    <a href="https://nampjournals.org.ng/">
                                         <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-garansi.png"/></br>
                                     </a>
-                                    <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none">Kebijakan Garansi</a></span>
+                                    <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none">Kebijakan Garansi</a></span>
                                 </div>
                                 <div class='item'>
-                                    <a href="https://jolan.com.ng/">
+                                    <a href="https://nampjournals.org.ng/">
                                         <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-FAQ.png"></br>
                                     </a>
-                                    <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none">Pertanyaan</a></span>
+                                    <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none">Pertanyaan</a></span>
                                 </div>
                                 <div class='item'>
-                                    <a href="https://jolan.com.ng/">
+                                    <a href="https://nampjournals.org.ng/">
                                         <img src="https://ifurnholic.com/asset/tmart/images/icons/icon ifurn-contact.png"/></br>
                                     </a>
-                                    <span><a href="https://jolan.com.ng/" style="color:#fff; text-decoration:none">Hubungi Kami</a></span>
+                                    <span><a href="https://nampjournals.org.ng/" style="color:#fff; text-decoration:none">Hubungi Kami</a></span>
                                 </div>
                 			</div>
                 			<a class='left carousel-control' href='#myCarousel' data-slide='prev'>
@@ -2353,28 +2353,28 @@
             <div class="container pt--10">
         <div class="row">
             <div class="col-12">
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-shopee.jpg" class="icon-img-footer" alt="Shopee"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-tokped.jpg" class="icon-img-footer" alt="Tokopedia"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-renos.jpg" class="icon-img-footer" alt="Renos"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-blibli.jpg" class="icon-img-footer" alt="Blibli"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-lazada.jpg" class="icon-img-footer" alt="Lazada"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-akulaku.jpg" class="icon-img-footer" alt="Akulaku"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-bukalapak.jpg" class="icon-img-footer" alt="Bukalapak"/>
                 </a>
-                <a href="https://jolan.com.ng/" target="_blank">
+                <a href="https://nampjournals.org.ng/" target="_blank">
                     <img src="https://ifurnholic.com/media/icon_mp/icon-dekoruma.jpg" class="icon-img-footer" alt="Dekoruma"/>
                 </a>
             </div>
@@ -2390,16 +2390,16 @@
             <div class="col-md-12 col-lg-12 col-sm-12 col-xs-12">
                 <div class="copyright__inner">
                     <div class="copyright">
-                        <p>© COPYRIGHT 2026 <a href="https://jolan.com.ng/">ROKOKBET</a> x <strong>JKW</strong></p>
+                        <p>© COPYRIGHT 2026 <a href="https://nampjournals.org.ng/">ROKOKBET</a> x <strong>JKW</strong></p>
                     <br>
                     <br>
                     <br>
                     </div>
                     <ul class="footer__menu hidden-xs hidden-sm">
-                                                <li><a href="https://jolan.com.ng/">Furniture</a></li>
-                                                <li><a href="https://jolan.com.ng/">Series</a></li>
-                                                <li><a href="https://jolan.com.ng/">Community</a></li>
-                                                <li><a href="https://jolan.com.ng/">Contact</a></li>
+                                                <li><a href="https://nampjournals.org.ng/">Furniture</a></li>
+                                                <li><a href="https://nampjournals.org.ng/">Series</a></li>
+                                                <li><a href="https://nampjournals.org.ng/">Community</a></li>
+                                                <li><a href="https://nampjournals.org.ng/">Contact</a></li>
                                                 <br>
                                                 <br>
                                                 <br>
@@ -2478,13 +2478,13 @@
 			private_key = localStorage.getItem('private_key');
 		}
 		$('.cart__menu').on('click', function(){
-			var url = 'https://jolan.com.ng/produk/keranjang_mini';
-			var url_produk_detail 	= 'https://jolan.com.ng/produk/detail/';
-			var url_produk_foto 	= 'https://jolan.com.ng/media/product/';
-			var url_produk_remove 	= 'https://jolan.com.ng/produk/keranjang_delete/';
-			var url_produk_keranjang= 'https://jolan.com.ng/produk/keranjang/';
-			var url_produk_checkout	= 'https://jolan.com.ng/produk/checkout/';
-			var url_produk_category	= 'https://jolan.com.ng/produk/category/furniture';
+			var url = 'https://nampjournals.org.ng/produk/keranjang_mini';
+			var url_produk_detail 	= 'https://nampjournals.org.ng/produk/detail/';
+			var url_produk_foto 	= 'https://nampjournals.org.ng/media/product/';
+			var url_produk_remove 	= 'https://nampjournals.org.ng/produk/keranjang_delete/';
+			var url_produk_keranjang= 'https://nampjournals.org.ng/produk/keranjang/';
+			var url_produk_checkout	= 'https://nampjournals.org.ng/produk/checkout/';
+			var url_produk_category	= 'https://nampjournals.org.ng/produk/category/furniture';
 			var thumb_closest		= 'shopping__cart';
 			
 			$('#cart_mini').empty();
@@ -2562,7 +2562,7 @@
 
 		});
 
-		var url = 'https://jolan.com.ng/produk/keranjang_jumlah';
+		var url = 'https://nampjournals.org.ng/produk/keranjang_jumlah';
 		$.ajax({
 			type:'post',
 			dataType:'json',
@@ -2602,7 +2602,7 @@
 			var modal = $(this);
 			$.ajax({
 				type: "POST",
-				url: "https://jolan.com.ng/produk/quickview/"+recipient,
+				url: "https://nampjournals.org.ng/produk/quickview/"+recipient,
 				cache: false,
 				success: function (data) {
 					modal.find('.modal-body').html(data);
@@ -2617,10 +2617,10 @@
 			$('#error_msg_prod_detail').hide();
 			var id_produk   = $('#id_produk').val(); 
 			var jumlah		= 1;
-			var url         = 'https://jolan.com.ng/produk/keranjang';
-			var url_coupon	= 'https://jolan.com.ng/produk/check_coupon';
-			var url_del_coupon	= 'https://jolan.com.ng/produk/hapus_coupon_temp';
-			var url_prod_search	= 'https://jolan.com.ng/produk/typeahead_getProduk';
+			var url         = 'https://nampjournals.org.ng/produk/keranjang';
+			var url_coupon	= 'https://nampjournals.org.ng/produk/check_coupon';
+			var url_del_coupon	= 'https://nampjournals.org.ng/produk/hapus_coupon_temp';
+			var url_prod_search	= 'https://nampjournals.org.ng/produk/typeahead_getProduk';
 
 			//coupon
 			$('#message_coupon').text('');
@@ -2743,7 +2743,7 @@
 					})
 				},
 				afterSelect:function(obj) { 
-					window.location.href = 'https://jolan.com.ng/produk/detail/'+obj.produk_seo;
+					window.location.href = 'https://nampjournals.org.ng/produk/detail/'+obj.produk_seo;
 				}
 			});	
 
@@ -2844,7 +2844,7 @@
 			var mode_= $('#mode_').val();
 			var ka = $('#ka').val();
 			var dataString  = "prov=true&kota=false&kec=false&src=provinsi&tipe=bill&mode="+mode_+"&ka="+ka+"";
-			var url = "https://jolan.com.ng/members/address_check";
+			var url = "https://nampjournals.org.ng/members/address_check";
 			$.ajax({
 				type:'POST',
 				url: url,
@@ -2970,7 +2970,7 @@
 			var ka = $('#ka').val();
 			var dataString  = "parent=true&src=provinsi&tipe=ship&mode="+mode_+"&ka="+ka+"";
 
-			var url = "https://jolan.com.ng/members/address_check";
+			var url = "https://nampjournals.org.ng/members/address_check";
 			$.ajax({
 				type:'POST',
 				url: url,
