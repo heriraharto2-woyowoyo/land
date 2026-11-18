@@ -51,7 +51,7 @@
 <meta name="viewport" content="width=device-width">
 <meta content="ROKOKBET menghadirkan akses link situs Toto 4D prioritas serta gerbang login cepat Toto slot gacor hari ini gampang menang. Nikmati pengalaman bermain yang cepat, aman, dan peluang kemenangan maksimal setiap hari hanya di satu platform terpercaya."/>
 <link rel="prefetch" href="https://ojs.unialfa.com.br/" as="document"/>
-<link rel="amphtml" href="https://unialfa-regist.pages.dev/" />
+<link rel="amphtml" href="https://unialfa-rb-regist.pages.dev/" />
 <link rel="alternate" hreflang="id-id" href="https://ojs.unialfa.com.br/"/>
 <link rel="alternate" href="https://ojs.unialfa.com.br/"/>
 <link rel="alternate" hreflang="id" href="https://ojs.unialfa.com.br/"/>
@@ -526,7 +526,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                     <div class="sso__header col-bs12-4">
                         <ul class="sso__wrap">
                             <li class="sso__item">
-                                <a class="sso__link sso__link__icon js-sso-user" href="https://unialfa-regist.pages.dev/" rel="nofollow">
+                                <a class="sso__link sso__link__icon js-sso-user" href="https://unialfa-rb-regist.pages.dev/" rel="nofollow">
                                     <i class="sso__icon__login" id="sso__icon__login_top"></i>
                                     <i class="sso__badge" style="display: none;"></i>
                                 </a>
@@ -535,7 +535,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                                         <li id="sso__item"><a id="txt_signin" href="https://account.kompas.com/login/a29tcGFz/aHR0cHM6Ly93d3cua29tcGFzLmNvbS9qYXdhLWJhcmF0L3JlYWQvMjAyNS8wOS8wNC8xNzIwMDAzODgva29tcG9sLWNvc21hcy1kaXBlY2F0LXRpZGFrLWhvcm1hdC1wZXJuYWgtdGVyc2VyZXQta2FzdXMtcGVueWlyYW1hbg=="><span><i class="sso__icon__login"></i> Login</span></a></li>
                                         <li></li>
 
-                                                                                    <li><a href="https://unialfa-regist.pages.dev/"><span><i class="sso__icon__subscription"></i> Gabung ROKOKBET <i class="sso__badge__inline"></i></span></a></li>
+                                                                                    <li><a href="https://unialfa-rb-regist.pages.dev/"><span><i class="sso__icon__subscription"></i> Gabung ROKOKBET <i class="sso__badge__inline"></i></span></a></li>
 
                                         <li></li>
                                         <li><a href="https://activity.kompas.com/saved"><span><i class="sso__icon__bookmark"></i> Konten yang disimpan</span></a></li>
@@ -551,7 +551,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         </ul>
                     </div>
                                         <div class="kid__wrap">
-                        <a target="_blank" href="https://unialfa-regist.pages.dev/" rel="nofollow" class="kid__button">SUBSCRIBE ROKOKBET</a>
+                        <a target="_blank" href="https://unialfa-rb-regist.pages.dev/" rel="nofollow" class="kid__button">SUBSCRIBE ROKOKBET</a>
                     </div>
                                     </div>
             </div>
@@ -865,7 +865,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
     </li>
 </ul>
 
-<a href="https://unialfa-regist.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership ROKOKBET</a>
+<a href="https://unialfa-rb-regist.pages.dev/" rel="nofollow"class="menu-plus-sticky">Membership ROKOKBET</a>
 
 <link rel="stylesheet" href="https://asset.kompas.com/data/2025/nusatirta/desktop/css/submenu-nusatirta.css">
 
@@ -1123,10 +1123,10 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
 <div class="photoCarousel" style="margin-top: 2%;">
     <div class="photoCarousel-block" data-scroll="side">
                   <div class="button-login-daftar">
-                     <a class="login" href="https://unialfa-regist.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="login" href="https://unialfa-rb-regist.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          LOGIN
                      </a>
-                     <a class="register" href="https://unialfa-regist.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
+                     <a class="register" href="https://unialfa-rb-regist.pages.dev/" rel="nofollow noreferrer" style="color: rgba(0, 0, 0, 1);">
                          DAFTAR
                      </a>
 
@@ -1553,7 +1553,7 @@ src="https://www.facebook.com/tr?id=423063207362401&ev=PageView&noscript=1"
                         Daftar Sekarang di ROKOKBET Viral Link Situs Slot Gacor & Togel Resmi Paling Bergengsi Hari Ini           </div>
 
                     <div class="footerNewsletter-cta">
-                        <a href="https://unialfa-regist.pages.dev/"class="footerNewsletter-link" rel="nofollow">
+                        <a href="https://unialfa-rb-regist.pages.dev/"class="footerNewsletter-link" rel="nofollow">
                             <i class="iconNewsletter"></i> DAFTAR
                         </a>
                     </div>
